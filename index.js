@@ -31,8 +31,18 @@ async function main() {
         WebBuilder.buildFromWeb();
     } else {
         const filePath = path.join(dataFolder, file);
-        TextBuilder.buildFromText(filePath);
+
+        switch (file) {
+            case "trainers.txt":
+                await TextBuilder.buildTrainerFromText(filePath);
+                break;
+            case "pokemonSets.txt":
+                await TextBuilder.buildPokemonSetFromText(filePath);
+                break;
+            default:
+                console.error("No builder defined for this file:", file);
+        }
     }
 }
 
-main()
+await main()
