@@ -2,7 +2,9 @@ import fs from "fs/promises";
 import path from "path";
 
 export class TextBuilder {
+
     static async buildTrainerFromText(filePath) {
+        
         try {
             let resultingJson = []
 
