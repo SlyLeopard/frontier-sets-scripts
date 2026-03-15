@@ -1,0 +1,950 @@
+0|Bulbasaur|1|Grass/Poison|Leech Seed|Toxic|Sweet Scent|Magical Leaf|Bright Powder|Modest|0|0|0|255|255|0|105|48|54|77|101|81
+1|Ivysaur|2|Grass/Poison|Take Down|Leech Seed|Razor Leaf|Poison Powder|Salac Berry|Careful|0|255|0|0|255|0|122|100|70|78|129|67
+2|Ivysaur|3|Grass/Poison|Leech Seed|Sleep Powder|Sludge Bomb|Giga Drain|Big Root|Modest|0|0|0|255|255|0|124|63|72|132|120|69
+3|Venusaur|4|Grass/Poison|Sleep Powder|Amnesia|Sludge Bomb|Leaf Storm|White Herb|Modest|0|0|0|255|255|0|146|83|94|156|142|91
+4|Venusaur|5|Grass/Poison|Leech Seed|Sleep Powder|Giga Drain|Ingrain|Big Root|Bold|170|0|170|0|170|0|169|85|128|113|134|93
+5|Venusaur|6|Grass/Poison|Earthquake|Curse|Outrage|Seed Bomb|Black Sludge|Adamant|0|255|0|0|255|0|148|138|96|101|144|93
+6|Venusaur|7|Grass/Poison|Hyper Beam|Sludge Bomb|Synthesis|Frenzy Plant|Wise Glasses|Modest|255|0|0|255|0|0|183|89|100|162|117|97
+7|Charmander|1|Fire|Smokescreen|Scary Face|Metal Claw|Fire Fang|Scope Lens|Adamant|0|255|0|0|0|255|99|96|48|58|55|101
+8|Charmeleon|2|Fire|Smokescreen|Slash|Scary Face|Fire Fang|Razor Claw|Naughty|0|255|0|0|0|255|120|112|65|87|64|118
+9|Charmeleon|3|Fire|Flamethrower|Smokescreen|Aerial Ace|Shadow Claw|Razor Claw|Bashful|0|255|0|0|0|255|122|104|67|89|74|120
+10|Charizard|4|Fire/Flying|Flamethrower|Smokescreen|Scary Face|Air Slash|Petaya Berry|Modest|0|0|0|255|0|255|144|85|89|166|96|142
+11|Charizard|5|Fire/Flying|SolarBeam|Sunny Day|Will-O-Wisp|Overheat|White Herb|Modest|0|0|0|255|0|255|146|87|91|168|98|144
+12|Charizard|6|Fire/Flying|Earthquake|Crunch|Dragon Claw|Flare Blitz|Scope Lens|Adamant|0|255|0|0|0|255|146|140|91|109|98|144
+13|Charizard|7|Fire/Flying|Ancient Power|Blast Burn|Air Slash|Focus Blast|BrightPowder|Timid|0|0|0|255|0|255|150|90|95|157|102|162
+14|Squirtle|1|Water|Bite|Withdraw|Protect|Aqua Jet|Sea Incense|Adamant|255|255|0|0|0|0|135|92|70|49|69|48
+15|Wartortle|2|Water|Bite|Rapid Spin|Yawn|Aqua Jet|Focus Band|Adamant|255|255|0|0|0|0|152|111|87|64|87|65
+16|Wartortle|3|Water|Surf|Ice Beam|Fake Out|Brick Break|Shell Bell|Serious|255|0|0|255|0|0|154|72|89|105|89|67
+17|Blastoise|4|Water|Hydro Pump|Icy Wind|Mirror Coat|Signal Beam|Mystic Water|Modest|0|0|170|170|170|0|145|84|132|128|137|89
+18|Blastoise|5|Water|Double Team|Waterfall|Focus Punch|Aqua Ring|Shell Bell|Adamant|255|255|0|0|0|0|178|139|113|88|118|91
+19|Blastoise|6|Water|Earthquake|Aqua Tail|Avalanche|Zen Headbutt|Life Orb|Adamant|255|255|0|0|0|0|178|139|113|88|118|91
+20|Blastoise|7|Water|Ice Beam|Hyper Beam|Hydro Cannon|Focus Blast|Shell Bell|Modest|255|0|0|255|0|0|182|90|117|146|122|95
+21|Butterfree|1|Bug/Flying|Psybeam|Air Cutter|Silver Wind|Tailwind|Pecha Berry|Modest|0|0|0|255|255|0|120|45|55|127|116|75
+22|Beedrill|1|Bug/Poison|Twineedle|Toxic|Agility|Assurance|Scope Lens|Jolly|0|255|0|0|255|0|125|116|45|45|116|88
+23|Pidgeotto|1|Normal/Flying|Wing Attack|Quick Attack|Mirror Move|Feather Dance|Rawst Berry|Adamant|0|255|0|0|0|255|123|105|60|49|55|107
+24|Pidgeot|2|Normal/Flying|Wing Attack|Sand Attack|Facade|Tailwind|Cheri Berry|Adamant|0|255|0|0|0|255|145|129|82|69|77|129
+25|Pidgeot|3|Normal/Flying|Steel Wing|Return|Aerial Ace|U-Turn|Razor Claw|Adamant|0|255|0|0|0|255|147|132|84|71|79|131
+26|Raticate|2|Normal|Quick Attack|Scary Face|Pursuit|Endeavor|Silk Scarf|Jolly|0|255|0|0|0|255|117|119|67|51|77|148
+27|Raticate|3|Normal|Hyper Fang|Super Fang|Scary Face|Shadow Ball|Chople Berry|Bashful|0|170|0|170|0|170|119|111|69|80|79|127
+28|Fearow|2|Normal/Flying|Leer|Growl|Facade|Pluck|Sharp Beak|Adamant|0|255|0|0|0|255|127|140|72|61|68|138
+29|Fearow|3|Normal/Flying|Drill Peck|Faint Attack|Frustration|U-Turn|Cheri Berry|Adamant|0|255|0|0|0|255|129|143|74|63|70|140
+30|Arbok|2|Poison|Bite|Glare|Poison Fang|Gastro Acid|Persim Berry|Adamant|255|255|0|0|0|0|153|135|76|64|86|87
+31|Arbok|3|Poison|Glare|Sludge Bomb|Crunch|Mud Bomb|Payapa Berry|Quirky|0|255|0|255|0|0|124|125|78|105|88|89
+32|Pikachu|1|Electric|Thunder Shock|Thunder Wave|Double Team|Swift|Sitrus Berry|Modest|0|0|0|255|0|255|95|54|35|94|45|126
+33|Raichu|4|Electric|Thunder Punch|Slam|Quick Attack|Iron Tail|Wide Lens|Adamant|0|255|0|0|0|255|126|145|66|90|91|142
+34|Raichu|5|Electric|Thunder Punch|Thunder Wave|Sweet Kiss|Focus Punch|Focus Band|Jolly|0|255|0|0|0|255|128|134|68|92|93|158
+35|Raichu|6|Electric|Thunderbolt|Signal Beam|Focus Blast|Nasty Plot|Petaya Berry|Timid|0|0|0|255|0|255|128|92|68|134|93|158
+36|Raichu|7|Electric|Thunder Wave|Return|Brick Break|Volt Tackle|BrightPowder|Adamant|0|255|0|0|0|255|132|151|72|96|97|148
+37|Sandshrew|1|Ground|Sand Attack|Dig|Sandstorm|Rock Tomb|Soft Sand|Adamant|0|255|255|0|0|0|110|122|121|22|35|45
+38|Sandslash|2|Ground|Dig|Defense Curl|Sandstorm|Rock Tomb|Sitrus Berry|Adamant|0|255|255|0|0|0|137|151|148|46|62|72
+39|Sandslash|3|Ground|Earthquake|Rock Slide|Sandstorm|Crush Claw|Quick Claw|Adamant|0|255|255|0|0|0|139|154|150|48|64|74
+40|Nidorina|1|Poison|Double Kick|Bite|Flatter|Poison Fang|Poison Barb|Adamant|255|255|0|0|0|0|161|107|72|54|60|61
+41|Nidoqueen|4|Poison/Ground|Earthquake|Charm|Poison Fang|Aerial Ace|Payapa Berry|Adamant|255|255|0|0|0|0|187|136|98|77|96|87
+42|Nidoqueen|5|Poison/Ground|Fire Punch|Ice Punch|Thunder Punch|Poison Jab|Scope Lens|Adamant|255|255|0|0|0|0|189|138|100|79|98|89
+43|Nidoqueen|6|Poison/Ground|Flamethrower|Ice Beam|Sludge Bomb|Earth Power|Black Sludge|Modest|255|0|0|255|0|0|189|85|100|130|98|89
+44|Nidoqueen|7|Poison/Ground|Earthquake|Crunch|Superpower|Poison Jab|Razor Claw|Adamant|255|255|0|0|0|0|193|143|104|82|102|93
+45|Nidorino|1|Poison|Double Kick|Toxic|Flatter|Facade|Focus Band|Adamant|255|255|0|0|0|0|152|118|62|54|60|70
+46|Nidoking|4|Poison/Ground|Double Kick|Counter|Earthquake|Poison Jab|Focus Band|Impish|255|255|0|0|0|0|178|134|96|86|86|96
+47|Nidoking|5|Poison/Ground|Horn Drill|Substitute|Focus Punch|Dragon Pulse|BrightPowder|Careful|170|0|170|0|170|0|170|105|111|88|119|98
+48|Nidoking|6|Poison/Ground|Ice Beam|Sludge Bomb|Shadow Ball|Earth Power|Expert Belt|Modest|0|0|0|255|0|255|149|94|90|141|88|129
+49|Nidoking|7|Poison/Ground|Earthquake|Outrage|Megahorn|Poison Jab|Muscle Band|Adamant|0|255|0|0|0|255|153|154|94|91|92|133
+50|Clefairy|1|Normal|Sing|Encore|Follow Me|Wake-Up Slap|BrightPowder|Adamant|255|255|0|0|0|0|161|89|53|58|70|40
+51|Clefable|2|Normal|Double Team|Reflect|Metronome|Follow Me|Chesto Berry|Bashful|0|0|255|0|255|0|157|77|111|92|128|67
+52|Clefable|3|Normal|Sing|Return|Meteor Mash|Zen Headbutt|Focus Band|Adamant|255|255|0|0|0|0|190|121|82|84|99|69
+53|Vulpix|1|Fire|Ember|Confuse Ray|Swift|Will-O-Wisp|BrightPowder|Calm|0|0|0|255|255|0|98|41|45|86|111|70
+54|Ninetales|4|Fire|SolarBeam|Fire Blast|Attract|Sunny Day|BrightPowder|Timid|0|0|0|255|0|255|139|78|86|123|111|156
+55|Ninetales|5|Fire|Confuse Ray|Overheat|Dark Pulse|Nasty Plot|White Herb|Timid|0|0|0|255|0|255|141|80|88|125|113|158
+56|Ninetales|6|Fire|Hypnosis|Dream Eater|Heat Wave|Ominous Wind|Wide Lens|Timid|0|0|0|0|255|255|141|80|88|94|144|158
+57|Ninetales|7|Fire|Flamethrower|Extrasensory|Calm Mind|Energy Ball|Passho Berry|Modest|0|0|0|255|0|255|145|83|92|141|117|148
+58|Wigglytuff|2|Normal|Sing|Wish|Secret Power|Grass Knot|Silk Scarf|Adamant|255|255|0|0|0|0|233|118|52|73|57|52
+59|Wigglytuff|3|Normal|Sing|Dream Eater|Shadow Ball|Hyper Voice|Sitrus Berry|Modest|255|0|0|255|0|0|235|71|54|126|59|54
+60|Golbat|2|Poison/Flying|Toxic|Confuse Ray|Steel Wing|Aerial Ace|Payapa Berry|Jolly|0|255|0|0|0|255|137|118|77|64|82|140
+61|Golbat|3|Poison/Flying|Confuse Ray|Poison Fang|Aerial Ace|Zen Headbutt|Black Sludge|Adamant|0|255|0|0|0|255|139|132|79|66|84|130
+62|Oddish|1|Grass/Poison|Acid|Mega Drain|Sweet Scent|Moonlight|Rose Incense|Bold|0|0|0|255|255|0|105|49|66|111|101|35
+63|Gloom|1|Grass/Poison|Acid|Mega Drain|Stun Spore|Moonlight|Miracle Seed|Modest|255|0|0|255|0|0|151|63|75|133|80|45
+64|Vileplume|4|Grass/Poison|Sleep Powder|Sludge Bomb|Giga Drain|Ingrain|Big Root|Modest|0|0|255|255|0|0|141|81|127|156|101|61
+65|Vileplume|5|Grass/Poison|Toxic|Double Team|Attract|Grass Knot|Black Sludge|Bold|170|0|170|0|170|0|164|83|130|113|124|63
+66|Vileplume|6|Grass/Poison|Swords Dance|Frustration|Seed Bomb|Drain Punch|Lum Berry|Adamant|0|255|0|0|255|0|143|136|98|101|134|63
+67|Vileplume|7|Grass/Poison|Hyper Beam|Sludge Bomb|Synthesis|Energy Ball|Wise Glasses|Modest|255|0|0|255|0|0|178|87|102|162|107|67
+68|Parasect|1|Bug/Grass|Scratch|Stun Spore|Grass Knot|Bug Bite|Aspear Berry|Jolly|0|0|0|0|255|255|120|100|85|58|116|72
+69|Venonat|1|Bug/Poison|Supersonic|Psybeam|Poison Powder|Bug Bite|SilverPowder|Relaxed|255|0|0|255|0|0|151|60|60|76|60|45
+70|Venomoth|2|Bug/Poison|Psybeam|Sleep Powder|Attract|Silver Wind|Black Sludge|Timid|0|0|0|255|0|255|132|64|67|128|82|140
+71|Venomoth|3|Bug/Poison|Supersonic|Psychic|Sludge Bomb|Bug Buzz|SilverPowder|Modest|0|0|0|255|0|255|134|66|69|143|84|130
+72|Dugtrio|4|Ground|Earthquake|Rock Slide|Astonish|Sand Tomb|Grip Claw|Jolly|0|255|0|0|0|255|101|122|61|54|81|178
+73|Dugtrio|5|Ground|Tri Attack|Sludge Bomb|Sandstorm|Earth Power|Lax Incense|Modest|0|0|0|255|0|255|103|83|63|103|83|164
+74|Dugtrio|6|Ground|Fissure|Aerial Ace|Night Slash|Giga Impact|Razor Claw|Jolly|0|255|0|0|0|255|103|124|63|56|83|180
+75|Dugtrio|7|Ground|Earthquake|Slash|Shadow Claw|Stone Edge|Muscle Band|Adamant|0|255|0|0|0|255|107|140|67|60|87|168
+76|Persian|2|Normal|Slash|Swagger|U-Turn|Captivate|Silk Scarf|Jolly|0|255|0|0|0|255|127|108|67|64|72|168
+77|Persian|3|Normal|Bite|Slash|Fake Out|Shadow Claw|Razor Claw|Adamant|0|255|0|0|0|255|129|121|69|66|74|155
+78|Psyduck|1|Water|Disable|Water Gun|Confusion|Water Sport|Chesto Berry|Modest|255|0|0|255|0|0|141|51|53|111|55|60
+79|Golduck|4|Water|Surf|Psychic|Confuse Ray|Calm Mind|Rindo Berry|Modest|255|0|0|255|0|0|177|83|89|150|91|96
+80|Golduck|5|Water|Waterfall|Aerial Ace|Shadow Claw|Mud Bomb|Shell Bell|Adamant|0|255|0|0|0|255|148|138|91|97|93|129
+81|Golduck|6|Water|Ice Punch|Cross Chop|Aqua Tail|Zen Headbutt|Scope Lens|Adamant|255|255|0|0|0|0|179|138|91|97|93|98
+82|Golduck|7|Water|Hydro Pump|Ice Beam|Psychic|Signal Beam|Wacan Berry|Modest|255|0|0|255|0|0|183|89|95|157|97|102
+83|Primeape|2|Fighting|Karate Chop|Focus Energy|Fury Swipes|Foresight|Scope Lens|Jolly|0|255|0|0|0|255|127|143|67|60|77|146
+84|Primeape|3|Fighting|Earthquake|Rock Slide|Swagger|Cross Chop|Expert Belt|Adamant|0|255|0|0|0|255|129|159|69|62|79|135
+85|Growlithe|1|Fire|Bite|Roar|Agility|Fire Fang|Charcoal|Adamant|255|255|0|0|0|0|146|116|50|67|55|65
+86|Arcanine|4|Fire|Crunch|Extreme Speed|Will-O-Wisp|Fire Fang|Lum Berry|Jolly|0|255|0|0|0|255|156|152|91|99|91|150
+87|Arcanine|5|Fire|Reversal|Endure|Flare Blitz|Thunder Fang|Salac Berry|Jolly|0|255|0|0|0|255|158|154|93|101|93|152
+88|Arcanine|6|Fire|SolarBeam|Sunny Day|Overheat|Dragon Pulse|White Herb|Modest|0|0|0|255|0|255|158|110|93|158|93|139
+89|Arcanine|7|Fire|Crunch|Extreme Speed|Flare Blitz|Thunder Fang|Focus Band|Adamant|0|255|0|0|0|255|162|173|97|105|97|143
+90|Poliwhirl|1|Water|Double Slap|Mist|Bubble Beam|Rain Dance|Liechi Berry|Hardy|0|255|0|255|0|0|125|101|70|86|55|95
+91|Poliwrath|4|Water/Fighting|Surf|Psychic|Double Team|Vacuum Wave|Rindo Berry|Modest|255|0|0|255|0|0|187|86|106|123|101|81
+92|Poliwrath|5|Water/Fighting|Waterfall|Dynamic Punch|Bulk Up|Poison Jab|Lax Incense|Adamant|255|255|0|0|0|0|189|141|108|74|103|83
+93|Poliwrath|6|Water/Fighting|Hydro Pump|Blizzard|Focus Blast|Mud Bomb|Wide Lens|Modest|255|0|0|255|0|0|189|88|108|125|103|83
+94|Poliwrath|7|Water/Fighting|Earthquake|Hypnosis|Waterfall|Focus Punch|Expert Belt|Adamant|255|255|0|0|0|0|193|146|112|78|107|87
+95|Kadabra|2|Psychic|Disable|Confusion|Future Sight|Role Play|TwistedSpoon|Timid|0|0|0|0|255|255|102|37|37|127|108|157
+96|Kadabra|3|Psychic|Psychic|Reflect|Shadow Ball|Shock Wave|Cheri Berry|Modest|0|0|0|255|0|255|104|39|39|176|79|145
+97|Alakazam|4|Psychic|Psychic|Shadow Ball|Future Sight|Calm Mind|BrightPowder|Timid|0|0|0|255|0|255|121|54|56|177|96|178
+98|Alakazam|5|Psychic|Psychic|Recover|Focus Blast|Charge Beam|Colbur Berry|Modest|0|0|0|255|0|255|123|56|58|196|98|164
+99|Alakazam|6|Psychic|Psychic|Signal Beam|Grass Knot|Charge Beam|Wise Glasses|Timid|0|0|0|255|0|255|123|56|58|179|98|180
+100|Alakazam|7|Psychic|Psychic|Shadow Ball|Focus Blast|Energy Ball|Expert Belt|Modest|0|0|0|255|0|255|127|60|62|201|102|168
+101|Machop|1|Fighting|Karate Chop|Scary Face|Foresight|Rock Tomb|Scope Lens|Adamant|255|255|0|0|0|0|161|127|55|36|40|40
+102|Machoke|2|Fighting|Karate Chop|Scary Face|Foresight|Rock Tomb|Focus Band|Adamant|255|255|0|0|0|0|173|151|77|51|67|52
+103|Machoke|3|Fighting|Counter|Rock Slide|Cross Chop|Facade|Scope Lens|Adamant|255|255|0|0|0|0|175|154|79|53|69|54
+104|Machamp|4|Fighting|Earthquake|Foresight|Cross Chop|Bullet Punch|Scope Lens|Adamant|255|255|0|0|0|0|187|189|91|68|96|66
+105|Machamp|5|Fighting|Counter|Earthquake|Revenge|Payback|Focus Sash|Adamant|0|0|255|0|255|0|158|157|124|70|129|68
+106|Machamp|6|Fighting|Ice Punch|Earthquake|Dynamic Punch|Stone Edge|Quick Claw|Adamant|255|255|0|0|0|0|189|191|93|70|98|68
+107|Machamp|7|Fighting|Fire Punch|Thunder Punch|Earthquake|Cross Chop|Quick Claw|Adamant|255|255|0|0|0|0|193|195|97|73|102|72
+108|Weepinbell|1|Grass/Poison|Wrap|Acid|Razor Leaf|Sweet Scent|Scope Lens|Quiet|0|255|0|255|0|0|125|126|55|133|50|54
+109|Victreebel|4|Grass/Poison|Sleep Powder|Sludge Bomb|Gastro Acid|Leaf Storm|Payapa Berry|Modest|255|0|0|255|0|0|177|104|76|156|71|81
+110|Victreebel|5|Grass/Poison|Stockpile|Spit Up|Swallow|Seed Bomb|Black Sludge|Adamant|255|255|0|0|0|0|179|163|78|101|73|83
+111|Victreebel|6|Grass/Poison|Hyper Beam|SolarBeam|Sludge Bomb|Synthesis|Power Herb|Modest|255|0|0|255|0|0|179|106|78|158|73|83
+112|Victreebel|7|Grass/Poison|SolarBeam|Sludge Bomb|Sunny Day|Wring Out|Focus Band|Modest|255|0|0|255|0|0|183|109|82|162|77|87
+113|Tentacool|1|Water/Poison|Supersonic|Acid|Bubble Beam|Barrier|Cheri Berry|Modest|0|0|0|255|255|0|100|40|40|94|136|75
+114|Tentacruel|4|Water/Poison|Surf|Barrier|Sludge Bomb|Icy Wind|Wacan Berry|Timid|0|0|0|255|0|255|146|72|76|122|131|156
+115|Tentacruel|5|Water/Poison|Toxic|Confuse Ray|Giga Drain|Attract|Black Sludge|Calm|255|0|0|0|255|0|179|74|78|93|180|113
+116|Tentacruel|6|Water/Poison|Surf|Sludge Bomb|Giga Drain|Mirror Coat|Focus Sash|Modest|0|0|0|255|255|0|148|74|78|136|164|113
+117|Tentacruel|7|Water/Poison|Hydro Pump|Ice Beam|Sludge Bomb|Wring Out|Scope Lens|Timid|0|0|0|255|0|255|152|78|82|128|137|162
+118|Geodude|1|Rock/Ground|Strength|Protect|Magnitude|Rock Blast|Focus Band|Adamant|0|255|255|0|0|0|100|127|136|31|35|25
+119|Graveler|1|Rock/Ground|Defense Curl|Magnitude|Rock Tomb|Stealth Rock|Focus Band|Adamant|0|255|255|0|0|0|115|144|151|45|50|40
+120|Golem|4|Rock/Ground|Earthquake|Rock Slide|Sandstorm|Sucker Punch|Focus Band|Impish|0|255|255|0|0|0|146|152|189|59|76|56
+121|Golem|5|Rock/Ground|Fire Punch|Thunder Punch|Earthquake|Superpower|White Herb|Adamant|0|255|255|0|0|0|148|169|174|61|78|58
+122|Golem|6|Rock/Ground|Earthquake|Hammer Arm|Gyro Ball|Fling|Iron Ball|Brave|0|255|255|0|0|0|148|169|174|68|78|52
+123|Golem|7|Rock/Ground|Earthquake|Explosion|Gyro Ball|Stone Edge|Quick Claw|Brave|0|255|255|0|0|0|152|173|178|72|82|55
+124|Ponyta|1|Fire|Stomp|Tail Whip|Flame Wheel|Will-O-Wisp|Chesto Berry|Adamant|0|255|0|0|0|255|110|133|60|63|70|126
+125|Rapidash|4|Fire|SolarBeam|Fire Blast|Rest|Sunny Day|Chesto Berry|Modest|0|0|0|255|0|255|131|99|81|134|91|147
+126|Rapidash|5|Fire|SolarBeam|Swift|Sunny Day|Overheat|White Herb|Modest|0|0|0|255|0|255|133|101|83|136|93|149
+127|Rapidash|6|Fire|Horn Drill|Iron Tail|Flare Blitz|Poison Jab|BrightPowder|Adamant|0|255|0|0|0|255|133|158|83|83|93|149
+128|Rapidash|7|Fire|Double-edge|Hypnosis|Megahorn|Flare Blitz|Chesto Berry|Jolly|0|255|0|0|0|255|137|148|87|87|97|168
+129|Slowpoke|1|Water/Psychic|Disable|Confusion|Yawn|Water Pulse|Cheri Berry|Modest|255|0|0|255|0|0|181|63|70|83|45|20
+130|Slowbro|4|Water/Psychic|Surf|Psychic|Yawn|Calm Mind|Chesto Berry|Bold|0|0|255|255|0|0|161|77|167|142|91|41
+131|Slowbro|5|Water/Psychic|Earthquake|Aqua Tail|Avalanche|Zen Headbutt|Expert Belt|Adamant|255|255|0|0|0|0|194|130|123|101|93|43
+132|Slowbro|6|Water/Psychic|Flamethrower|Psychic|Shadow Ball|Signal Beam|Choice Specs|Modest|255|0|0|255|0|0|194|79|123|158|93|43
+133|Slowbro|7|Water/Psychic|Surf|Ice Beam|Psychic|Trick Room|Leftovers|Quiet|255|0|0|255|0|0|198|92|127|162|97|42
+134|Magnemite|1|Electric/Steel|Reflect|Metal Sound|Shock Wave|Mirror Shot|Rawst Berry|Bold|0|0|255|255|0|0|85|36|116|131|60|50
+135|Magneton|2|Electric/Steel|Supersonic|Thunder Wave|Shock Wave|Magnet Bomb|Petaya Berry|Quirky|0|255|0|255|0|0|112|98|102|158|77|77
+136|Magneton|3|Electric/Steel|Thunderbolt|Thunder Wave|Magnet Rise|Mirror Shot|Shuca Berry|Modest|0|0|255|255|0|0|114|62|135|176|79|79
+137|Farfetch'd|1|Normal/Flying|Swords Dance|Slash|Knock Off|Air Cutter|Stick|Adamant|0|255|0|0|255|0|112|111|60|56|98|65
+138|Doduo|1|Normal/Flying|Quick Attack|Faint Attack|Aerial Ace|Acupressure|Liechi Berry|Jolly|0|255|0|0|0|255|95|121|50|36|40|122
+139|Dodrio|2|Normal/Flying|Fury Attack|Growl|Pluck|Acupressure|Aspear Berry|Jolly|0|255|0|0|0|255|122|148|77|60|67|151
+140|Dodrio|3|Normal/Flying|Drill Peck|Faint Attack|Frustration|Acupressure|King's Rock|Jolly|0|255|0|0|0|255|124|150|79|62|69|154
+141|Seel|1|Water|Encore|Fake Out|Ice Shard|Aqua Jet|Aspear Berry|Adamant|0|255|0|0|255|0|125|89|60|45|106|50
+142|Dewgong|4|Water/Ice|Headbutt|Waterfall|Fake Out|Avalanche|Razor Fang|Careful|0|255|0|0|255|0|156|112|91|72|150|81
+143|Dewgong|5|Water/Ice|Disable|Ice Beam|Encore|Signal Beam|Wacan Berry|Calm|0|0|0|255|255|0|158|74|93|114|152|83
+144|Dewgong|6|Water/Ice|Horn Drill|Rest|Sleep Talk|Sheer Cold|Salac Berry|Calm|170|0|170|0|170|0|179|74|114|83|141|83
+145|Dewgong|7|Water/Ice|Surf|Ice Beam|Rest|Signal Beam|Chesto Berry|Calm|0|0|0|255|255|0|162|78|97|118|157|87
+146|Grimer|1|Poison|Toxic|Minimize|Acid Armor|Shadow Sneak|Black Sludge|Adamant|255|255|0|0|0|0|171|127|55|40|55|30
+147|Muk|4|Poison|Minimize|Acid Armor|Poison Jab|Shadow Sneak|Black Sludge|Adamant|255|255|0|0|0|0|202|161|86|68|111|61
+148|Muk|5|Poison|Fire Punch|Ice Punch|Thunder Punch|Poison Jab|Expert Belt|Adamant|255|255|0|0|0|0|204|163|88|70|113|63
+149|Muk|6|Poison|Curse|Payback|Shadow Sneak|Gunk Shot|Zoom Lens|Brave|255|255|0|0|0|0|204|163|88|78|113|56
+150|Muk|7|Poison|Explosion|Brick Break|Shadow Sneak|Gunk Shot|Quick Claw|Adamant|255|255|0|0|0|0|208|168|92|73|117|67
+151|Cloyster|2|Water/Ice|Supersonic|Aurora Beam|Spikes|Water Pulse|NeverMeltIce|Bold|0|0|255|255|0|0|112|91|239|123|52|77
+152|Cloyster|3|Water/Ice|Toxic|Protect|Dive|Avalanche|Leftovers|Impish|0|255|255|0|0|0|114|135|242|84|54|79
+153|Haunter|1|Ghost/Poison|Toxic|Night Shade|Confuse Ray|Grudge|Persim Berry|Timid|0|0|0|255|0|255|105|49|50|151|60|144
+154|Gengar|4|Ghost/Poison|Confuse Ray|Spite|Sludge Bomb|Shadow Ball|Payapa Berry|Timid|0|0|0|255|0|255|126|68|71|172|86|167
+155|Gengar|5|Ghost/Poison|Hypnosis|Dream Eater|Substitute|Shadow Ball|Life Orb|Modest|0|0|0|255|0|255|128|70|73|191|88|154
+156|Gengar|6|Ghost/Poison|Psychic|Confuse Ray|Focus Blast|Energy Ball|Scope Lens|Modest|0|0|0|255|0|255|128|70|73|191|88|154
+157|Gengar|7|Ghost/Poison|Thunderbolt|Sludge Bomb|Destiny Bond|Shadow Ball|Lum Berry|Modest|0|0|0|255|0|255|132|73|77|195|92|158
+158|Onix|1|Rock/Ground|Dig|Screech|Rock Slide|Sandstorm|Hard Stone|Adamant|0|255|255|0|0|0|95|89|196|31|50|75
+159|Drowzee|1|Psychic|Disable|Psybeam|Barrier|Assist|Rawst Berry|Modest|0|0|0|255|255|0|120|47|50|86|126|47
+160|Hypno|4|Psychic|Hypnosis|Fling|Psycho Cut|Trick Room|Iron Ball|Brave|0|255|0|0|255|0|151|126|81|84|157|70
+161|Hypno|5|Psychic|Hypnosis|Dream Eater|Nightmare|Drain Punch|Persim Berry|Hardy|0|0|0|255|255|0|153|86|83|117|159|80
+162|Hypno|6|Psychic|Fire Punch|Ice Punch|Thunder Punch|Zen Headbutt|Sitrus Berry|Adamant|0|255|0|0|255|0|153|128|83|77|159|80
+163|Hypno|7|Psychic|Psychic|Shadow Ball|Signal Beam|Focus Blast|Choice Specs|Modest|0|0|0|255|255|0|157|81|87|133|163|84
+164|Krabby|1|Water|Vice Grip|Leer|Bubble Beam|Protect|Pecha Berry|Quiet|0|0|255|255|0|0|90|110|126|67|30|49
+165|Kingler|2|Water|Vice Grip|Bubble Beam|Harden|Mud Sport|Wacan Berry|Quiet|0|0|255|255|0|0|117|137|153|96|57|73
+166|Kingler|3|Water|Guillotine|Crabhammer|Flail|Endure|Salac Berry|Jolly|0|255|0|0|0|255|119|170|124|53|59|126
+167|Voltorb|1|Electric|Thunder Wave|Light Screen|Swift|Shock Wave|Petaya Berry|Modest|0|0|0|255|0|255|100|31|55|100|60|136
+168|Electrode|4|Electric|Thunderbolt|Thunder Wave|Light Screen|Swift|Chesto Berry|Modest|0|0|0|255|0|255|126|54|81|134|91|182
+169|Electrode|5|Electric|Thunder Wave|Flash|Swagger|Charge Beam|BrightPowder|Timid|0|0|0|255|0|255|128|56|83|124|93|202
+170|Electrode|6|Electric|Hyper Beam|Thunder|Rain Dance|Magnet Rise|Damp Rock|Timid|0|0|0|255|0|255|128|56|83|124|93|202
+171|Electrode|7|Electric|Thunderbolt|Explosion|Mirror Coat|Signal Beam|Focus Sash|Hardy|0|0|0|255|0|255|132|67|87|128|97|188
+172|Exeggcute|1|Grass/Psychic|Leech Seed|Confusion|Light Screen|Grass Knot|Odd Incense|Modest|0|0|255|255|0|0|120|40|116|105|50|45
+173|Exeggutor|4|Grass/Psychic|SolarBeam|Psychic|Synthesis|Sunny Day|BrightPowder|Modest|255|0|0|255|0|0|192|95|96|183|76|66
+174|Exeggutor|5|Grass/Psychic|Leech Seed|Hypnosis|Dream Eater|Ingrain|Lum Berry|Modest|255|0|0|255|0|0|194|97|98|185|78|68
+175|Exeggutor|6|Grass/Psychic|Explosion|Zen Headbutt|Trick Room|Wood Hammer|Focus Sash|Brave|255|255|0|0|0|0|194|152|98|138|78|61
+176|Exeggutor|7|Grass/Psychic|Psychic|Sludge Bomb|Ancient Power|Leaf Storm|Expert Belt|Modest|255|0|0|255|0|0|198|100|102|190|82|72
+177|Cubone|1|Ground|Headbutt|Leer|Bone Club|Brick Break|Soft Sand|Adamant|0|255|255|0|0|0|110|94|131|40|55|40
+178|Marowak|4|Ground|Bone Rush|Sandstorm|Iron Tail|Brick Break|Razor Claw|Adamant|0|255|255|0|0|0|126|134|152|54|91|56
+179|Marowak|5|Ground|Fire Punch|Thunder Punch|Rock Slide|Bone Rush|Thick Club|Adamant|0|255|255|0|0|0|128|136|154|56|93|58
+180|Marowak|6|Ground|Fire Punch|Earthquake|Outrage|Giga Impact|Thick Club|Adamant|0|255|255|0|0|0|128|136|154|56|93|58
+181|Marowak|7|Ground|Thunder Punch|Earthquake|Iron Head|Stone Edge|Thick Club|Adamant|0|255|255|0|0|0|132|140|158|60|97|62
+182|Hitmonlee|2|Fighting|Rolling Kick|Focus Energy|Foresight|Facade|Black Belt|Careful|0|255|0|0|255|0|112|158|60|37|162|94
+183|Hitmonlee|3|Fighting|Mega Kick|High Jump Kick|Endure|Blaze Kick|Salac Berry|Adamant|0|170|0|0|170|170|114|165|62|39|140|117
+184|Hitmonchan|2|Fighting|Counter|Mind Reader|Mach Punch|Bullet Punch|King's Rock|Adamant|0|255|0|0|255|0|112|157|86|37|148|83
+185|Hitmonchan|3|Fighting|Mega Punch|Counter|Sky Uppercut|Bullet Punch|King's Rock|Adamant|0|170|0|0|170|170|114|148|88|39|140|106
+186|Lickitung|1|Normal|Screech|Lick|Secret Power|Rock Tomb|Chesto Berry|Adamant|255|255|0|0|0|0|181|100|80|58|80|35
+187|Koffing|1|Poison|Psybeam|Smokescreen|Sludge|Spite|Poison Barb|Modest|0|0|255|255|0|0|100|63|131|105|50|40
+188|Weezing|4|Poison|Sludge Bomb|Grudge|Shock Wave|Dark Pulse|Payapa Berry|Bold|0|0|255|255|0|0|131|90|178|127|81|71
+189|Weezing|5|Poison|Toxic|Swagger|Payback|Double Hit|Sitrus Berry|Adamant|0|255|255|0|0|0|133|147|164|88|83|73
+190|Weezing|6|Poison|Thunderbolt|Explosion|Sludge Bomb|Dark Pulse|Lax Incense|Sassy|0|0|0|255|255|0|133|103|133|129|125|65
+191|Weezing|7|Poison|Flamethrower|Sludge Bomb|Destiny Bond|Shadow Ball|Quick Claw|Modest|0|0|255|255|0|0|137|96|168|146|87|77
+192|Rhyhorn|1|Ground/Rock|Tail Whip|Dig|Scary Face|Rock Blast|Persim Berry|Adamant|170|170|170|0|0|0|161|122|121|31|35|30
+193|Rhydon|4|Ground/Rock|Earthquake|Rock Slide|Scary Face|Crunch|Passho Berry|Adamant|0|255|255|0|0|0|171|189|162|50|56|51
+194|Rhydon|5|Ground/Rock|Fire Punch|Ice Punch|Thunder Punch|Earthquake|Focus Sash|Adamant|0|255|255|0|0|0|173|191|164|52|58|53
+195|Rhydon|6|Ground/Rock|Outrage|Hammer Arm|Avalanche|Shadow Claw|Persim Berry|Brave|255|255|0|0|0|0|204|191|133|58|58|47
+196|Rhydon|7|Ground/Rock|Horn Drill|Earthquake|Megahorn|Stone Edge|Quick Claw|Adamant|255|255|0|0|0|0|208|195|137|55|62|57
+197|Chansey|2|Normal|Minimize|Defense Curl|Metronome|Refresh|Sitrus Berry|Sassy|255|0|0|0|255|0|343|12|12|42|157|51
+198|Chansey|3|Normal|Sing|Egg Bomb|Softboiled|Focus Punch|Lucky Punch|Impish|255|0|0|0|255|0|345|14|15|39|145|59
+199|Tangela|2|Grass|Bind|Mega Drain|Toxic|Ancient Power|Pecha Berry|Bold|0|0|255|255|0|0|127|55|168|138|47|67
+200|Tangela|3|Grass|Sludge Bomb|Giga Drain|Ingrain|Wring Out|Pecha Berry|Bold|0|0|255|255|0|0|129|57|170|140|49|69
+201|Kangaskhan|4|Normal|Double-edge|Reversal|Endure|Crunch|Salac Berry|Jolly|0|255|0|0|0|255|171|137|91|45|91|145
+202|Kangaskhan|5|Normal|Fire Punch|Ice Punch|Thunder Punch|Dizzy Punch|Razor Claw|Adamant|255|255|0|0|0|0|204|152|93|47|93|103
+203|Kangaskhan|6|Normal|Rock Slide|Hammer Arm|Shadow Claw|Double Hit|Life Orb|Jolly|0|255|0|0|0|255|173|139|93|47|93|147
+204|Kangaskhan|7|Normal|Earthquake|Outrage|Crunch|Giga Impact|Muscle Band|Adamant|255|255|0|0|0|0|208|157|97|51|97|107
+205|Seadra|2|Water|Bubble Beam|Aurora Beam|Smokescreen|Rain Dance|Razor Claw|Bold|0|0|255|255|0|0|117|64|146|133|52|92
+206|Seadra|3|Water|Surf|Ice Beam|Smokescreen|Twister|Shell Bell|Modest|0|0|255|255|0|0|119|66|135|148|54|94
+207|Goldeen|1|Water|Supersonic|Psybeam|Rain Dance|Water Pulse|Petaya Berry|Modest|0|0|255|255|0|0|105|64|96|78|55|68
+208|Seaking|2|Water|Supersonic|Psybeam|Rain Dance|Water Pulse|Pecha Berry|Modest|255|0|0|255|0|0|173|89|72|113|87|75
+209|Seaking|3|Water|Facade|Aqua Ring|Poison Jab|Aqua Tail|Quick Claw|Adamant|255|255|0|0|0|0|175|145|74|66|89|77
+210|Staryu|1|Water|Bubble Beam|Light Screen|Swift|Twister|Cheri Berry|Timid|0|0|0|255|0|255|90|45|60|106|60|133
+211|Starmie|4|Water/Psychic|Surf|Thunder Wave|Psychic|Confuse Ray|Lum Berry|Timid|0|0|0|255|0|255|126|77|96|142|96|172
+212|Starmie|5|Water/Psychic|Hydro Pump|Blizzard|Thunder|Recover|Wide Lens|Timid|0|0|0|255|0|255|128|79|98|144|98|174
+213|Starmie|6|Water/Psychic|Surf|Psychic|Signal Beam|Power Gem|Wise Glasses|Modest|0|0|0|255|0|255|128|79|98|158|98|159
+214|Starmie|7|Water/Psychic|Surf|Ice Beam|Thunderbolt|Psychic|Expert Belt|Modest|0|0|0|255|0|255|132|82|102|162|102|163
+215|Mr._Mime|4|Psychic|Psychic|Mimic|Signal Beam|Copycat|Cheri Berry|Calm|0|0|0|255|255|0|106|50|76|142|178|101
+216|Mr._Mime|5|Psychic|Hypnosis|Light Screen|Reflect|Dream Eater|Light Clay|Calm|0|0|0|255|255|0|108|52|78|144|180|103
+217|Mr._Mime|6|Psychic|Hyper Beam|Thunderbolt|Psychic|Energy Ball|Kasib Berry|Modest|0|0|0|255|255|0|108|52|78|158|164|103
+218|Mr._Mime|7|Psychic|Psychic|Shadow Ball|Focus Blast|Charge Beam|Choice Specs|Modest|0|0|0|255|255|0|112|55|82|162|168|107
+219|Scyther|2|Bug/Flying|Wing Attack|Leer|Light Screen|Fury Cutter|Metronome|Jolly|255|0|0|0|0|255|163|117|87|55|87|157
+220|Scyther|3|Bug/Flying|Swords Dance|Aerial Ace|Night Slash|X-Scissor|BrightPowder|Adamant|0|255|0|0|0|255|134|165|89|57|89|145
+221|Jynx|4|Ice/Psychic|Ice Beam|Psychic|Lovely Kiss|Fake Tears|Chesto Berry|Calm|0|0|0|255|255|0|131|54|46|157|150|106
+222|Jynx|5|Ice/Psychic|Dream Eater|Lovely Kiss|Perish Song|Mean Look|Lax Incense|Calm|0|0|0|255|255|0|133|56|48|159|152|108
+223|Jynx|6|Ice/Psychic|Blizzard|Signal Beam|Wring Out|Energy Ball|Expert Belt|Modest|0|0|0|255|0|255|133|56|48|174|108|139
+224|Jynx|7|Ice/Psychic|Ice Beam|Psychic|Shadow Ball|Focus Blast|Choice Specs|Modest|0|0|0|255|0|255|137|60|52|179|112|143
+225|Electabuzz|2|Electric|Thunder Wave|Light Screen|Swift|Shock Wave|Lansat Berry|Timid|0|0|0|255|0|255|127|81|64|133|92|157
+226|Electabuzz|3|Electric|Thunderbolt|Thunder Wave|Psychic|Focus Blast|BrightPowder|Modest|0|0|0|255|0|255|129|82|66|148|94|145
+227|Magmar|2|Fire|Fire Punch|Smokescreen|Mach Punch|Will-O-Wisp|Lansat Berry|Jolly|0|255|0|0|0|255|127|133|64|96|92|144
+228|Magmar|3|Fire|Flamethrower|Psychic|Confuse Ray|Focus Blast|Lax Incense|Modest|0|0|0|255|0|255|129|93|66|154|94|133
+229|Pinsir|4|Bug|Swords Dance|Earthquake|Rock Slide|X-Scissor|Coba Berry|Adamant|0|255|255|0|0|0|131|183|142|59|81|96
+230|Pinsir|5|Bug|Flail|Endure|Revenge|X-Scissor|Salac Berry|Jolly|0|255|0|0|0|255|133|169|113|61|83|141
+231|Pinsir|6|Bug|Superpower|X-Scissor|Giga Impact|Stone Edge|Lax Incense|Adamant|0|255|255|0|0|0|133|185|144|61|83|98
+232|Pinsir|7|Bug|Guillotine|Earthquake|Close Combat|X-Scissor|Scope Lens|Adamant|0|255|255|0|0|0|137|190|148|64|87|102
+233|Tauros|4|Normal|Thrash|Scary Face|Pursuit|Zen Headbutt|Persim Berry|Jolly|0|255|0|0|0|255|141|142|106|45|81|167
+234|Tauros|5|Normal|Earthquake|Rock Slide|Facade|Payback|Life Orb|Adamant|0|255|0|0|0|255|143|158|108|47|83|154
+235|Tauros|6|Normal|Earthquake|Outrage|Iron Tail|Giga Impact|Lum Berry|Jolly|0|255|0|0|0|255|143|144|108|47|83|169
+236|Tauros|7|Normal|Earthquake|Return|Zen Headbutt|Stone Edge|Choice Band|Adamant|0|255|0|0|0|255|147|162|112|51|87|158
+237|Gyarados|4|Water/Flying|Bite|Rain Dance|Aqua Tail|Ice Fang|Razor Fang|Careful|0|255|0|0|255|0|161|167|90|63|156|92
+238|Gyarados|5|Water/Flying|Waterfall|Dragon Dance|Ice Fang|Iron Head|Lum Berry|Jolly|0|255|0|0|0|255|163|169|92|65|113|137
+239|Gyarados|6|Water/Flying|Waterfall|Outrage|Giga Impact|Stone Edge|Persim Berry|Adamant|0|255|0|0|255|0|163|185|92|65|144|94
+240|Gyarados|7|Water/Flying|Earthquake|Waterfall|Rest|Dragon Dance|Chesto Berry|Adamant|0|255|0|0|0|255|167|190|96|69|117|129
+241|Lapras|4|Water/Ice|Curse|Aqua Tail|Avalanche|Ice Shard|Leftovers|Adamant|255|255|0|0|0|0|227|139|91|86|106|71
+242|Lapras|5|Water/Ice|Sing|Confuse Ray|Perish Song|Sheer Cold|Quick Claw|Impish|0|0|255|0|255|0|198|98|136|88|139|73
+243|Lapras|6|Water/Ice|Waterfall|Outrage|Dragon Dance|Zen Headbutt|Lum Berry|Adamant|255|255|0|0|0|0|229|141|93|88|108|73
+244|Lapras|7|Water/Ice|Surf|Ice Beam|Thunderbolt|Psychic|BrightPowder|Modest|255|0|0|255|0|0|233|91|97|146|112|77
+245|Eevee|1|Normal|Take Down|Bite|Flail|Endure|Salac Berry|Jolly|0|255|0|0|0|255|115|91|55|45|70|100
+246|Vaporeon|4|Water|Surf|Ice Beam|Acid Armor|Baton Pass|BrightPowder|Modest|255|0|0|255|0|0|227|68|71|167|106|76
+247|Vaporeon|5|Water|Hydro Pump|Ice Beam|Acid Armor|Rain Dance|Damp Rock|Modest|255|0|0|255|0|0|229|70|73|169|108|78
+248|Vaporeon|6|Water|Blizzard|Yawn|Muddy Water|Aqua Ring|Leftovers|Modest|255|0|0|255|0|0|229|70|73|169|108|78
+249|Vaporeon|7|Water|Surf|Ice Beam|Shadow Ball|Signal Beam|Expert Belt|Modest|255|0|0|255|0|0|233|73|77|173|112|82
+250|Jolteon|4|Electric|Thunderbolt|Thunder Wave|Agility|Baton Pass|Focus Sash|Timid|0|0|0|255|0|255|131|68|71|152|106|189
+251|Jolteon|5|Electric|Double Kick|Thunder Wave|Dig|Discharge|Razor Claw|Docile|0|255|0|255|0|0|133|109|73|154|108|143
+252|Jolteon|6|Electric|Thunder|Rain Dance|Shadow Ball|Yawn|Lax Incense|Timid|0|0|0|255|0|255|133|70|73|154|108|191
+253|Jolteon|7|Electric|Hyper Beam|Thunderbolt|Shadow Ball|Signal Beam|Razor Fang|Modest|0|0|0|255|0|255|137|73|77|173|112|178
+254|Flareon|4|Fire|Curse|Baton Pass|Superpower|Fire Fang|Quick Claw|Adamant|0|255|0|0|255|0|131|189|71|95|152|76
+255|Flareon|5|Fire|Sand Attack|Flail|Endure|Fire Fang|Salac Berry|Jolly|0|255|0|0|0|255|133|174|73|97|123|119
+256|Flareon|6|Fire|Mud-Slap|Shadow Ball|Will-O-Wisp|Overheat|White Herb|Modest|0|0|0|255|255|0|133|128|73|152|154|78
+257|Flareon|7|Fire|Bite|Superpower|Giga Impact|Fire Fang|White Herb|Adamant|0|255|0|0|255|0|137|195|77|100|158|82
+258|Porygon|1|Normal|Psybeam|Swift|Icy Wind|Recycle|Persim Berry|Modest|255|0|0|255|0|0|156|58|75|133|80|45
+259|Omanyte|1|Rock/Water|Water Gun|Protect|Ancient Power|Mud Shot|Pecha Berry|Bold|0|0|255|255|0|0|95|40|149|126|60|40
+260|Omastar|2|Rock/Water|Water Gun|Withdraw|Spikes|Rollout|Metronome|Brave|0|255|255|0|0|0|132|107|163|122|77|55
+261|Omastar|3|Rock/Water|Surf|Ice Beam|Toxic Spikes|Stone Edge|Sitrus Berry|Modest|0|0|255|255|0|0|134|62|165|170|79|64
+262|Kabuto|1|Rock/Water|Knock Off|Rock Tomb|Metal Sound|Aqua Jet|Liechi Berry|Adamant|0|255|255|0|0|0|90|127|126|54|50|60
+263|Kabutops|2|Rock/Water|Harden|Rock Tomb|Metal Sound|Aqua Jet|Sea Incense|Impish|0|255|255|0|0|0|122|153|157|64|77|87
+264|Kabutops|3|Rock/Water|Swords Dance|Waterfall|Rock Slide|Slash|Razor Claw|Adamant|0|255|255|0|0|0|124|170|145|66|79|89
+265|Aerodactyl|4|Rock/Flying|Rock Slide|Torment|Taunt|Aerial Ace|King's Rock|Jolly|0|255|0|0|0|255|146|147|76|63|86|189
+266|Aerodactyl|5|Rock/Flying|Bite|Thunder Fang|Ice Fang|Fire Fang|Razor Fang|Jolly|0|255|0|0|0|255|148|149|78|65|88|191
+267|Aerodactyl|6|Rock/Flying|Earthquake|Rock Slide|Crunch|Giga Impact|Yache Berry|Adamant|0|255|0|0|0|255|148|163|78|65|88|174
+268|Aerodactyl|7|Rock/Flying|Earthquake|Aerial Ace|Dragon Claw|Stone Edge|Choice Band|Adamant|0|255|0|0|0|255|152|168|82|69|92|178
+269|Snorlax|4|Normal|Rock Slide|Curse|Return|Yawn|Leftovers|Adamant|255|255|0|0|0|0|257|167|76|68|121|41
+270|Snorlax|5|Normal|Fire Punch|Ice Punch|Thunder Punch|Rest|Chesto Berry|Adamant|0|255|0|0|255|0|228|169|78|70|154|43
+271|Snorlax|6|Normal|Outrage|Superpower|Seed Bomb|Gunk Shot|White Herb|Adamant|0|255|0|0|255|0|228|169|78|70|154|43
+272|Snorlax|7|Normal|Double-edge|Earthquake|Crunch|Zen Headbutt|Life Orb|Adamant|255|255|0|0|0|0|263|173|82|73|127|47
+273|Articuno|8|Ice/Flying|Fly|Blizzard|Hail|Roost|Icy Rock|Quirky|0|255|0|255|0|0|165|137|120|147|145|105
+274|Articuno|8|Ice/Flying|Reflect|Facade|Aerial Ace|Avalanche|Wacan Berry|Brave|0|255|255|0|0|0|165|150|152|115|145|94
+275|Articuno|8|Ice/Flying|Ice Beam|Signal Beam|Water Pulse|Ominous Wind|Wise Glasses|Modest|0|0|255|255|0|0|165|94|152|161|145|105
+276|Articuno|8|Ice/Flying|Ice Beam|Ancient Power|Air Cutter|Sheer Cold|Charti Berry|Modest|0|0|0|255|255|0|165|94|120|161|177|105
+277|Zapdos|8|Electric/Flying|Drill Peck|Thunder Wave|Thunder|Rain Dance|Yache Berry|Serious|0|255|0|0|0|255|165|142|105|145|110|152
+278|Zapdos|8|Electric/Flying|Thunderbolt|Light Screen|Ancient Power|Ominous Wind|Focus Band|Timid|0|0|0|255|0|255|165|99|105|177|110|167
+279|Zapdos|8|Electric/Flying|Drill Peck|Steel Wing|Twister|U-Turn|King's Rock|Jolly|0|255|0|0|0|255|165|142|105|130|110|167
+280|Zapdos|8|Electric/Flying|Thunderbolt|Heat Wave|Air Cutter|Signal Beam|BrightPowder|Modest|0|0|0|255|0|255|165|99|105|194|110|152
+281|Moltres|8|Fire/Flying|Flamethrower|Ancient Power|Roost|Air Slash|Passho Berry|Timid|0|0|0|255|0|255|165|108|110|177|105|156
+282|Moltres|8|Fire/Flying|Hyper Beam|SolarBeam|Fire Blast|Sunny Day|Heat Rock|Timid|255|0|0|255|0|0|197|108|110|177|105|121
+283|Moltres|8|Fire/Flying|Sky Attack|Steel Wing|Return|U-Turn|Power Herb|Adamant|0|255|0|0|0|255|165|167|110|130|105|142
+284|Moltres|8|Fire/Flying|Ancient Power|Overheat|Air Slash|Ominous Wind|White Herb|Modest|0|0|0|255|0|255|165|108|110|194|105|142
+285|Dratini|1|Dragon|Supersonic|Thunder Wave|Twister|Water Pulse|Cheri Berry|Modest|0|0|0|255|255|0|101|62|50|94|86|55
+286|Dragonair|2|Dragon|Thunder Wave|Safeguard|Dragon Breath|Water Pulse|Cheri Berry|Modest|0|0|0|255|255|0|123|81|72|118|108|77
+287|Dragonair|3|Dragon|Slam|Dragon Dance|Aqua Tail|Dragon Pulse|Haban Berry|Quirky|0|255|0|255|0|0|125|124|74|110|79|79
+288|Dragonite|4|Dragon/Flying|Thunder Wave|Aerial Ace|Dragon Claw|Dragon Dance|Lum Berry|Adamant|0|255|0|0|255|0|157|193|106|99|142|91
+289|Dragonite|5|Dragon/Flying|Fire Punch|Ice Punch|Thunder Punch|Dragon Rush|Razor Claw|Adamant|0|255|255|0|0|0|159|195|139|101|113|93
+290|Dragonite|6|Dragon/Flying|Flamethrower|Surf|Thunderbolt|Draco Meteor|Expert Belt|Modest|0|0|255|255|0|0|159|132|139|158|113|93
+291|Dragonite|7|Dragon/Flying|Earthquake|Outrage|Superpower|Giga Impact|Choice Band|Adamant|0|255|0|0|255|0|163|200|112|105|148|97
+292|Chikorita|1|Grass|Growl|Light Screen|Secret Power|Bullet Seed|Lax Incense|Adamant|255|255|0|0|0|0|136|93|70|48|70|50
+293|Bayleef|2|Grass|Light Screen|Safeguard|Ancient Power|Magical Leaf|Sitrus Berry|Modest|255|0|0|255|0|0|153|62|87|111|87|67
+294|Bayleef|3|Grass|Body Slam|Rest|Giga Drain|Grass Whistle|Chesto Berry|Docile|0|0|170|170|170|0|124|71|110|93|110|69
+295|Meganium|4|Grass|Solarbeam|Synthesis|Sunny Day|Ancient Power|Heat Rock|Modest|0|0|255|0|255|0|146|83|142|103|142|91
+296|Meganium|5|Grass|Leech Seed|Toxic|Substitute|Giga Drain|Big Root|Calm|170|0|170|0|170|0|169|85|134|96|147|93
+297|Meganium|6|Grass|Light Screen|Reflect|Wring Out|Leaf Storm|Light Clay|Bold|255|0|0|255|0|0|179|85|124|127|113|93
+298|Meganium|7|Grass|Hyper Beam|Light Screen|Ancient Power|Frenzy Plant|Lax Incense|Modest|255|0|0|255|0|0|183|89|117|144|117|97
+299|Cyndaquil|1|Fire|Double Kick|Smokescreen|Swift|Flame Wheel|Quick Claw|Adamant|0|255|0|0|255|0|99|96|48|58|86|70
+300|Quilava|2|Fire|Double Kick|Quick Attack|Smokescreen|Flame Wheel|Chesto Berry|Adamant|0|255|0|0|0|255|120|112|65|78|72|118
+301|Quilava|3|Fire|Flamethrower|Quick Attack|Smokescreen|Crush Claw|Focus Band|Serious|0|255|0|255|0|0|122|104|67|120|74|89
+302|Typhlosion|4|Fire|Fire Punch|Thunder Punch|Quick Attack|Shadow Claw|Scope Lens|Adamant|0|255|0|0|0|255|144|138|89|108|96|142
+303|Typhlosion|5|Fire|Earthquake|Reversal|Endure|Blast Burn|Salac Berry|Serious|0|255|0|255|0|0|146|128|91|153|98|113
+304|Typhlosion|6|Fire|Earthquake|Aerial Ace|Flare Blitz|Shadow Claw|Shuca Berry|Adamant|0|255|0|0|0|255|146|140|91|109|98|144
+305|Typhlosion|7|Fire|Solarbeam|Sunny Day|Overheat|Focus Blast|White Herb|Modest|0|0|0|255|0|255|150|90|95|172|102|148
+306|Totodile|1|Water|Screech|Slash|Scary Face|Dive|Razor Claw|Adamant|0|255|255|0|0|0|110|111|100|44|53|48
+307|Croconaw|2|Water|Bite|Slash|Scary Face|Water Pulse|Scope Lens|Serious|0|255|0|255|0|0|127|118|87|97|70|65
+308|Croconaw|3|Water|Rock Slide|Scary Face|Crunch|Aqua Tail|Focus Band|Adamant|0|255|255|0|0|0|129|132|120|61|72|67
+309|Feraligatr|4|Water|Waterfall|Rock Slide|Scary Face|Ice Fang|King's Rock|Adamant|0|255|255|0|0|0|151|161|142|81|94|89
+310|Feraligatr|5|Water|Superpower|Dragon Claw|Aqua Tail|Shadow Claw|White Herb|Adamant|0|255|255|0|0|0|153|163|144|82|96|91
+311|Feraligatr|6|Water|Ice Beam|Ancient Power|Hydro Cannon|Focus Blast|Wise Glasses|Modest|0|0|255|255|0|0|153|106|144|135|96|91
+312|Feraligatr|7|Water|Earthquake|Waterfall|Dragon Dance|Ice Fang|Lum Berry|Adamant|0|255|255|0|0|0|157|168|148|86|100|95
+313|Furret|2|Normal|Slash|Helping Hand|Assist|Sucker Punch|Liechi Berry|Jolly|0|255|0|0|0|255|147|114|71|46|62|140
+314|Furret|3|Normal|Frustration|Trick|Assist|Shadow Claw|Choice Band|Adamant|0|255|0|0|0|255|149|127|73|48|64|130
+315|Noctowl|2|Normal/Flying|Supersonic|Reflect|Secret Power|Aerial Ace|Persim Berry|Adamant|255|255|0|0|0|0|193|96|57|74|103|77
+316|Noctowl|3|Normal/Flying|Psychic|Reflect|Swift|Air Slash|Persim Berry|Quiet|255|0|0|255|0|0|195|59|59|127|105|71
+317|Ledian|1|Bug/Flying|Agility|Baton Pass|Air Cutter|Silver Wind|Razor Claw|Timid|0|0|0|255|255|0|115|36|55|91|146|99
+318|Ariados|1|Bug/Poison|Toxic|Spider Web|Shadow Sneak|Bug Bite|SilverPowder|Adamant|255|255|0|0|0|0|161|138|75|58|65|45
+319|Crobat|4|Poison/Flying|Hypnosis|Aerial Ace|Roost|Cross Poison|Payapa Berry|Jolly|0|255|0|0|0|255|151|132|91|72|91|189
+320|Crobat|5|Poison/Flying|Bite|Twister|Air Slash|Zen Headbutt|Razor Fang|Docile|0|255|0|0|0|255|153|134|93|83|93|174
+321|Crobat|6|Poison/Flying|Sludge Bomb|Heat Wave|Dark Pulse|Air Slash|King's Rock|Modest|0|0|0|255|0|255|153|92|93|125|93|174
+322|Crobat|7|Poison/Flying|X-Scissor|Brave Bird|Zen Headbutt|Cross Poison|Razor Claw|Adamant|0|255|0|0|0|255|157|151|97|78|97|178
+323|Chinchou|1|Water/Electric|Bubble Beam|Thunder Wave|Icy Wind|Shock Wave|Magnet|Modest|255|0|0|255|0|0|166|38|43|101|61|72
+324|Lanturn|4|Water/Electric|Surf|Thunder Wave|Aqua Ring|Discharge|Rindo Berry|Modest|255|0|0|255|0|0|222|62|69|129|87|78
+325|Lanturn|5|Water/Electric|Thunder Wave|Confuse Ray|Attract|Dive|Lum Berry|Calm|255|0|0|0|255|0|224|63|71|89|132|80
+326|Lanturn|6|Water/Electric|Hydro Pump|Blizzard|Thunder|Rain Dance|Sitrus Berry|Modest|255|0|0|255|0|0|224|63|71|132|89|80
+327|Lanturn|7|Water/Electric|Surf|Ice Beam|Thunderbolt|Signal Beam|Expert Belt|Modest|255|0|0|255|0|0|228|67|75|136|93|84
+328|Togetic|1|Normal/Flying|Swift|Wish|Air Cutter|Magical Leaf|Chesto Berry|Calm|0|0|0|255|255|0|115|40|90|116|155|45
+329|Natu|1|Psychic/Flying|Night Shade|Future Sight|Air Cutter|Ominous Wind|TwistedSpoon|Timid|0|0|0|255|0|255|100|49|50|106|50|116
+330|Xatu|2|Psychic/Flying|Future Sight|Pluck|Tailwind|Zen Headbutt|Sharp Beak|Jolly|0|255|0|0|0|255|127|113|77|91|77|146
+331|Xatu|3|Psychic/Flying|Psychic|Confuse Ray|Air Cutter|Ominous Wind|Colbur Berry|Modest|0|0|0|255|0|255|129|75|79|148|79|135
+332|Flaaffy|1|Electric|Thunder Wave|Light Screen|Swift|Shock Wave|Light Clay|Modest|255|0|0|255|0|0|161|54|60|127|65|50
+333|Ampharos|4|Electric|Thunderbolt|Thunder Wave|Light Screen|Power Gem|Shuca Berry|Modest|0|0|0|255|255|0|156|77|86|172|132|66
+334|Ampharos|5|Electric|Fire Punch|Thunder Punch|Thunder Wave|Focus Punch|Cheri Berry|Careful|0|255|0|0|255|0|158|119|88|115|147|68
+335|Ampharos|6|Electric|Hyper Beam|Thunder Wave|Rest|Charge Beam|Chesto Berry|Modest|255|0|0|255|0|0|189|79|88|174|103|68
+336|Ampharos|7|Electric|Thunder|Signal Beam|Power Gem|Focus Blast|Zoom Lens|Quiet|255|0|0|255|0|0|193|92|92|179|107|64
+337|Bellossom|2|Grass|Acid|Stun Spore|Tickle|Magical Leaf|Petaya Berry|Modest|255|0|0|255|0|0|168|78|92|140|107|57
+338|Bellossom|3|Grass|Solarbeam|Sludge Bomb|Synthesis|Sunny Day|BrightPowder|Modest|255|0|0|255|0|0|170|80|94|143|109|59
+339|Azumarill|1|Water|Tail Whip|Bubble Beam|Defense Curl|Rollout|Pecha Berry|Quiet|0|0|0|255|255|0|160|55|85|94|116|49
+340|Sudowoodo|2|Rock|Rock Slide|Faint Attack|Sandstorm|Block|Hard Stone|Impish|0|255|255|0|0|0|132|138|168|33|72|37
+341|Sudowoodo|3|Rock|Earthquake|Mimic|Selfdestruct|Stone Edge|Life Orb|Adamant|0|255|255|0|0|0|134|154|155|35|74|39
+342|Politoed|4|Water|Surf|Swagger|Hyper Voice|Mud Bomb|Lax Incense|Calm|0|0|0|255|255|0|156|77|86|132|156|81
+343|Politoed|5|Water|Hypnosis|Perish Song|Brick Break|Dive|Chesto Berry|Impish|255|255|0|0|0|0|189|119|96|92|113|83
+344|Politoed|6|Water|Earthquake|Waterfall|Rest|Belly Drum|Chesto Berry|Careful|0|255|0|0|255|0|158|119|88|92|158|83
+345|Politoed|7|Water|Hydro Pump|Ice Beam|Psychic|Hypnosis|Wacan Berry|Modest|0|0|0|255|255|0|162|82|92|151|148|87
+346|Skiploom|1|Grass/Flying|Mega Drain|Confusion|Cotton Spore|Aerial Ace|Big Root|Docile|0|255|0|255|0|0|115|81|55|81|70|85
+347|Jumpluff|2|Grass/Flying|Tail Whip|Cotton Spore|Bullet Seed|Aerial Ace|Pecha Berry|Jolly|0|255|0|0|0|255|137|93|77|55|92|162
+348|Jumpluff|3|Grass/Flying|Sleep Powder|Synthesis|Bounce|Seed Bomb|Sitrus Berry|Adamant|0|255|0|0|0|255|139|104|79|57|94|150
+349|Aipom|1|Normal|Thunder Wave|Fake Out|U-Turn|Double Hit|Silk Scarf|Adamant|0|255|0|0|0|255|115|116|60|40|60|121
+350|Sunflora|2|Grass|Mega Drain|Leech Seed|Light Screen|Ingrain|Persim Berry|Calm|0|0|0|255|255|0|137|73|62|143|135|37
+351|Sunflora|3|Grass|Double Team|Sludge Bomb|Giga Drain|Grass Whistle|Sitrus Berry|Modest|255|0|0|255|0|0|170|75|64|159|94|39
+352|Yanma|1|Bug/Flying|Double Team|Detect|Air Cutter|Silver Wind|Lax Incense|Timid|0|0|0|255|0|255|125|63|50|111|50|144
+353|Quagsire|4|Water/Ground|Counter|Earthquake|Brick Break|Aqua Tail|Rindo Berry|Adamant|255|255|0|0|0|0|192|139|96|68|76|46
+354|Quagsire|5|Water/Ground|Amnesia|Curse|Yawn|Dive|Leftovers|Careful|170|0|170|0|170|0|184|98|119|70|108|48
+355|Quagsire|6|Water/Ground|Surf|Sludge Bomb|Focus Blast|Earth Power|Quick Claw|Modest|255|0|0|255|0|0|194|88|98|119|78|48
+356|Quagsire|7|Water/Ground|Ice Punch|Earthquake|Waterfall|Stone Edge|Muscle Band|Adamant|255|255|0|0|0|0|198|146|102|73|82|52
+357|Espeon|4|Psychic|Psychic|Reflect|Baton Pass|Calm Mind|Lum Berry|Timid|0|0|0|255|0|255|131|68|71|172|106|167
+358|Espeon|5|Psychic|Psychic|Swift|Charm|Attract|BrightPowder|Timid|0|0|0|255|0|255|133|70|73|174|108|169
+359|Espeon|6|Psychic|Hyper Beam|Psychic|Shadow Ball|Grass Knot|Lum Berry|Modest|0|0|0|255|0|255|133|70|73|191|108|154
+360|Espeon|7|Psychic|Psychic|Morning Sun|Shadow Ball|Signal Beam|Wise Glasses|Modest|0|0|0|255|0|255|137|73|77|195|112|158
+361|Umbreon|4|Dark|Confuse Ray|Curse|Baton Pass|Payback|Leftovers|Careful|0|0|255|0|255|0|161|76|152|63|189|76
+362|Umbreon|5|Dark|Toxic|Double Team|Confuse Ray|Mean Look|Leftovers|Impish|0|0|255|0|255|0|163|78|169|65|174|78
+363|Umbreon|6|Dark|Screech|Faint Attack|Swagger|Psych Up|Lax Incense|Impish|255|0|255|0|0|0|194|78|169|65|143|78
+364|Umbreon|7|Dark|Curse|Moonlight|Payback|Trump Card|BrightPowder|Impish|0|0|255|0|255|0|167|82|173|69|178|82
+365|Murkrow|1|Dark/Flying|Wing Attack|Faint Attack|Torment|Taunt|BlackGlasses|Jolly|0|255|0|0|0|255|120|121|47|81|47|139
+366|Slowking|4|Water/Psychic|Psychic|Yawn|Brine|Trick Room|Shell Bell|Quiet|170|0|170|0|170|0|182|86|112|122|142|36
+367|Slowking|5|Water/Psychic|Earthquake|Curse|Aqua Tail|Zen Headbutt|Quick Claw|Adamant|255|255|0|0|0|0|194|130|93|101|123|43
+368|Slowking|6|Water/Psychic|Psychic|Shadow Ball|Signal Beam|Focus Blast|Lum Berry|Modest|0|0|0|255|255|0|163|79|93|158|154|43
+369|Slowking|7|Water/Psychic|Flamethrower|Surf|Ice Beam|Psychic|Wise Glasses|Modest|255|0|0|255|0|0|198|82|97|162|127|47
+370|Misdreavus|2|Ghost|Thunder Wave|Confuse Ray|Pain Split|Ominous Wind|Cheri Berry|Calm|0|0|0|255|255|0|122|60|67|123|135|92
+371|Misdreavus|3|Ghost|Thunder Wave|Psychic|Confuse Ray|Shadow Ball|Kasib Berry|Modest|0|0|0|255|0|255|124|62|69|137|94|125
+372|Wobbuffet|1|Psychic|Counter|Splash|Charm|Mirror Coat|Focus Band|Jolly|0|0|170|0|170|170|250|38|84|34|84|64
+373|Girafarig|2|Normal/Psychic|Psybeam|Agility|Swift|Baton Pass|Petaya Berry|Modest|0|0|0|255|0|255|132|78|72|140|72|123
+374|Girafarig|3|Normal/Psychic|Thunder Wave|Crunch|Zen Headbutt|Double Hit|Razor Claw|Adamant|0|255|0|0|0|255|134|132|74|89|74|125
+375|Forretress|4|Bug/Steel|Counter|Revenge|Gyro Ball|Bug Bite|Occa Berry|Brave|0|255|255|0|0|0|141|145|182|71|71|45
+376|Forretress|5|Bug/Steel|Spikes|Payback|Toxic Spikes|Stealth Rock|Sitrus Berry|Brave|0|255|255|0|0|0|143|147|184|73|73|47
+377|Forretress|6|Bug/Steel|Dig|Toxic|Double Team|Swagger|Leftovers|Adamant|0|255|255|0|0|0|143|147|184|65|73|53
+378|Forretress|7|Bug/Steel|Double-edge|Earthquake|Explosion|Rock Slide|Lax Incense|Adamant|0|255|255|0|0|0|147|151|188|69|77|57
+379|Dunsparce|1|Normal|Headbutt|Bite|Glare|Spite|Razor Claw|Adamant|255|255|0|0|0|0|191|116|75|63|70|50
+380|Gligar|2|Ground/Flying|Swords Dance|Metal Claw|Sand Tomb|Aerial Ace|Razor Claw|Adamant|0|255|255|0|0|0|127|124|143|37|72|92
+381|Gligar|3|Ground/Flying|Earthquake|Sandstorm|Aerial Ace|Aqua Tail|Quick Claw|Adamant|0|255|0|0|0|255|129|126|114|39|74|125
+382|Steelix|4|Steel/Ground|Earthquake|Sandstorm|Crunch|Iron Head|Passho Berry|Impish|0|255|255|0|0|0|141|127|266|59|76|41
+383|Steelix|5|Steel/Ground|Earthquake|Thunder Fang|Ice Fang|Fire Fang|Shuca Berry|Adamant|0|255|255|0|0|0|143|141|244|61|78|43
+384|Steelix|6|Steel/Ground|Curse|Swagger|Gyro Ball|Payback|Iron Ball|Relaxed|0|255|255|0|0|0|143|129|268|68|78|38
+385|Steelix|7|Steel/Ground|Earthquake|Explosion|Gyro Ball|Stone Edge|Quick Claw|Brave|0|255|255|0|0|0|147|146|248|72|82|42
+386|Snubbull|1|Normal|Headbutt|Bite|Scary Face|Swagger|Razor Claw|Adamant|255|255|0|0|0|0|151|127|55|40|45|35
+387|Granbull|4|Normal|Thunder Wave|Rock Slide|Return|Crunch|Razor Claw|Adamant|255|255|0|0|0|0|187|178|86|63|71|56
+388|Granbull|5|Normal|Facade|Thunder Fang|Ice Fang|Fire Fang|Quick Claw|Adamant|255|255|0|0|0|0|189|180|88|65|73|58
+389|Granbull|6|Normal|Fire Punch|Ice Punch|Thunder Punch|Payback|Muscle Band|Adamant|255|255|0|0|0|0|189|180|88|65|73|58
+390|Granbull|7|Normal|Earthquake|Close Combat|Giga Impact|Stone Edge|Life Orb|Adamant|255|255|0|0|0|0|193|184|92|69|77|62
+391|Qwilfish|2|Water/Poison|Pin Missile|Bubble Beam|Toxic|Harden|Cheri Berry|Bashful|0|255|0|255|0|0|127|133|82|93|62|92
+392|Qwilfish|3|Water/Poison|Destiny Bond|Revenge|Poison Jab|Aqua Tail|Focus Band|Adamant|0|255|255|0|0|0|129|148|115|57|64|94
+393|Scizor|4|Bug/Steel|Swords Dance|Baton Pass|X-Scissor|Bullet Punch|BrightPowder|Impish|0|255|255|0|0|0|136|172|156|59|91|76
+394|Scizor|5|Bug/Steel|Metal Claw|Iron Defense|Roost|Night Slash|Sitrus Berry|Careful|0|255|0|0|255|0|138|174|113|61|136|78
+395|Scizor|6|Bug/Steel|Quick Attack|Reversal|Endure|X-Scissor|Salac Berry|Jolly|0|255|0|0|0|255|138|174|113|61|93|119
+396|Scizor|7|Bug/Steel|Aerial Ace|Night Slash|X-Scissor|Iron Head|Occa Berry|Adamant|0|255|255|0|0|0|142|195|148|64|97|82
+397|Shuckle|4|Bug/Rock|Swagger|Power Trick|Stone Edge|Bug Bite|Lax Incense|Impish|170|0|170|0|170|0|107|21|288|18|262|16
+398|Shuckle|5|Bug/Rock|Wrap|Toxic|Swagger|Attract|Grip Claw|Careful|170|0|170|0|170|0|109|23|264|20|290|18
+399|Shuckle|6|Bug/Rock|Double Team|Substitute|Gyro Ball|Power Trick|Lax Incense|Impish|170|0|170|0|170|0|109|23|290|20|264|18
+400|Shuckle|7|Bug/Rock|Toxic|Double Team|Substitute|Sandstorm|Leftovers|Calm|170|0|170|0|170|0|113|24|268|27|294|22
+401|Heracross|4|Bug/Fighting|Swagger|Attract|Megahorn|Focus Punch|Focus Band|Jolly|0|255|0|0|0|255|146|167|86|45|106|139
+402|Heracross|5|Bug/Fighting|Aerial Ace|Bulk Up|Close Combat|Night Slash|Scope Lens|Adamant|0|255|0|0|255|0|148|185|88|47|139|98
+403|Heracross|6|Bug/Fighting|Megahorn|Facade|Shadow Claw|Stone Edge|Coba Berry|Adamant|0|255|0|0|0|255|148|185|88|47|108|129
+404|Heracross|7|Bug/Fighting|Earthquake|Reversal|Endure|Megahorn|Salac Berry|Jolly|0|255|0|0|0|255|152|173|92|51|112|146
+405|Sneasel|2|Dark/Ice|Leer|Faint Attack|Taunt|Ice Shard|Persim Berry|Jolly|0|255|0|0|0|255|117|133|62|37|82|168
+406|Sneasel|3|Dark/Ice|Ice Punch|Spite|Faint Attack|Crush Claw|King's Rock|Jolly|0|255|0|0|0|255|119|135|64|39|84|170
+407|Teddiursa|1|Normal|Rest|Faint Attack|Attract|Secret Power|Chesto Berry|Impish|255|255|0|0|0|0|151|116|60|49|55|45
+408|Ursaring|4|Normal|Counter|Slash|Payback|Avalanche|Focus Sash|Brave|255|255|0|0|0|0|187|189|86|86|86|59
+409|Ursaring|5|Normal|Fire Punch|Ice Punch|Thunder Punch|Hammer Arm|Life Orb|Adamant|255|255|0|0|0|0|189|191|88|79|88|68
+410|Ursaring|6|Normal|Protect|Crunch|Facade|Superpower|Toxic Orb|Adamant|255|255|0|0|0|0|189|191|88|79|88|68
+411|Ursaring|7|Normal|Earthquake|Return|Cross Chop|Aerial Ace|Quick Claw|Adamant|255|255|0|0|0|0|193|195|92|82|92|72
+412|Magcargo|2|Fire/Rock|Acid Armor|Sandstorm|Ancient Power|Lava Plume|Lax Incense|Modest|255|0|0|255|0|0|143|51|127|129|87|37
+413|Magcargo|3|Fire/Rock|Body Slam|Earthquake|Rock Slide|Overheat|Quick Claw|Quiet|0|255|0|255|0|0|114|90|129|132|89|35
+414|Piloswine|2|Ice/Ground|Mist|Icy Wind|Hail|Mud Bomb|NeverMeltIce|Modest|255|0|0|255|0|0|193|96|87|107|67|57
+415|Piloswine|3|Ice/Ground|Earthquake|Curse|Ice Fang|Stone Edge|Muscle Band|Adamant|255|255|0|0|0|0|195|154|89|62|69|59
+416|Corsola|1|Water/Rock|Bubble Beam|Barrier|Mirror Coat|Ancient Power|Focus Band|Modest|0|0|0|255|255|0|115|54|90|111|121|40
+417|Remoraid|1|Water|Supersonic|Bubble Beam|Aurora Beam|Mud-Slap|Petaya Berry|Modest|0|0|0|255|0|255|95|63|40|111|40|101
+418|Octillery|2|Water|Thunder Wave|Focus Energy|Octazooka|Icy Wind|Wacan Berry|Modest|255|0|0|255|0|0|168|100|82|157|82|52
+419|Octillery|3|Water|Flamethrower|Thunder Wave|Psychic|Octazooka|Life Orb|Modest|255|0|0|255|0|0|170|102|84|159|84|54
+420|Delibird|1|Ice/Flying|Present|Hail|Ice Ball|Aerial Ace|NeverMeltIce|Adamant|0|255|0|0|0|255|105|100|50|63|50|111
+421|Mantine|2|Water/Flying|Wing Attack|Supersonic|Bubble Beam|Agility|Mystic Water|Hardy|0|255|0|255|0|0|127|78|77|118|147|77
+422|Mantine|3|Water/Flying|Surf|Ice Beam|Confuse Ray|Air Cutter|Shell Bell|Modest|0|0|0|255|255|0|129|44|79|132|180|79
+423|Skarmory|4|Steel/Flying|Roar|Drill Peck|Spikes|Steel Wing|Occa Berry|Impish|0|255|255|0|0|0|131|122|200|45|81|81
+424|Skarmory|5|Steel/Flying|Fly|Toxic|Double Team|Roost|Leftovers|Careful|170|0|170|0|170|0|154|93|174|47|114|83
+425|Skarmory|6|Steel/Flying|Drill Peck|Slash|Payback|Night Slash|Razor Claw|Impish|0|255|255|0|0|0|133|124|202|47|83|83
+426|Skarmory|7|Steel/Flying|Rock Slide|Steel Wing|X-Scissor|Brave Bird|Life Orb|Adamant|0|255|255|0|0|0|137|140|188|51|87|87
+427|Houndour|1|Dark/Fire|Bite|Roar|Will-O-Wisp|Fire Fang|Charcoal|Adamant|0|255|0|0|0|255|105|105|35|76|55|101
+428|Houndoom|4|Dark/Fire|Roar|Counter|Crunch|Fire Fang|Focus Sash|Jolly|0|255|0|0|0|255|141|132|61|108|91|150
+429|Houndoom|5|Dark/Fire|Reversal|Endure|Thunder Fang|Fire Fang|Focus Sash|Jolly|0|255|0|0|0|255|143|134|63|110|93|152
+430|Houndoom|6|Dark/Fire|Flamethrower|Sludge Bomb|Shadow Ball|Will-O-Wisp|Passho Berry|Modest|0|0|0|255|0|255|143|92|63|169|93|139
+431|Houndoom|7|Dark/Fire|Solarbeam|Sunny Day|Overheat|Dark Pulse|White Herb|Timid|0|0|0|255|0|255|147|96|67|158|97|157
+432|Kingdra|4|Water/Dragon|Surf|Smokescreen|Rain Dance|Dragon Pulse|Razor Fang|Timid|0|0|0|255|0|255|141|95|106|137|106|139
+433|Kingdra|5|Water/Dragon|Ice Beam|Twister|Yawn|Brine|Shell Bell|Timid|0|0|0|255|0|255|143|97|108|139|108|141
+434|Kingdra|6|Water/Dragon|Waterfall|Outrage|Dragon Dance|Iron Head|Lum Berry|Adamant|255|255|0|0|0|0|174|152|108|97|108|98
+435|Kingdra|7|Water/Dragon|Hydro Pump|Blizzard|Signal Beam|Draco Meteor|Wide Lens|Modest|255|0|0|255|0|0|178|100|112|157|112|102
+436|Phanpy|1|Ground|Defense Curl|Sandstorm|Rollout|Rock Tomb|Metronome|Adamant|255|255|0|0|0|0|181|105|65|40|45|45
+437|Donphan|4|Ground|Earthquake|Rock Slide|Sandstorm|Poison Jab|Razor Claw|Impish|0|255|255|0|0|0|156|162|178|63|71|61
+438|Donphan|5|Ground|Counter|Earthquake|Superpower|Gunk Shot|White Herb|Adamant|0|255|255|0|0|0|158|180|164|65|73|63
+439|Donphan|6|Ground|Earthquake|Gyro Ball|Thunder Fang|Fire Fang|Lax Incense|Brave|0|255|255|0|0|0|158|180|164|73|73|56
+440|Donphan|7|Ground|Earthquake|Fissure|Seed Bomb|Stone Edge|Quick Claw|Adamant|0|255|255|0|0|0|162|184|168|69|77|67
+441|Porygon2|4|Normal|Thunder Wave|Tri Attack|Recycle|Charge Beam|Cheri Berry|Modest|255|0|0|255|0|0|182|81|101|161|106|71
+442|Porygon2|5|Normal|Thunderbolt|Recover|Tri Attack|Trick Room|Iron Ball|Quiet|255|0|0|255|0|0|184|93|103|163|108|65
+443|Porygon2|6|Normal|Ice Beam|Thunderbolt|Psychic|Tri Attack|Wise Glasses|Modest|255|0|0|255|0|0|184|83|103|163|108|73
+444|Porygon2|7|Normal|Ice Beam|Tri Attack|Shadow Ball|Signal Beam|Lum Berry|Modest|255|0|0|255|0|0|188|87|107|168|112|77
+445|Stantler|2|Normal|Stomp|Bite|Confuse Ray|Imprison|Liechi Berry|Adamant|0|255|0|0|0|255|135|146|69|82|72|123
+446|Stantler|3|Normal|Thunder Wave|Confuse Ray|Frustration|Zen Headbutt|Chople Berry|Adamant|0|255|0|0|0|255|137|148|71|84|74|125
+447|Hitmontop|2|Fighting|Focus Energy|Triple Kick|Mach Punch|Detect|Liechi Berry|Adamant|255|255|0|0|0|0|143|146|102|37|117|77
+448|Hitmontop|3|Fighting|Counter|Triple Kick|Aerial Ace|Bullet Punch|Muscle Band|Adamant|255|255|0|0|0|0|145|148|104|39|119|79
+449|Smoochum|1|Ice/Psychic|Confusion|Sweet Kiss|Icy Wind|Fake Out|BrightPowder|Mild|0|0|0|255|0|255|105|35|18|133|70|101
+450|Elekid|1|Electric|Karate Chop|Thunder Punch|Quick Attack|Light Screen|Cheri Berry|Jolly|0|255|0|0|0|255|105|99|42|63|60|144
+451|Magby|1|Fire|Fire Punch|Leer|Smokescreen|Mach Punch|Pecha Berry|Adamant|0|255|0|0|0|255|105|122|42|67|60|119
+452|Miltank|4|Normal|Thunder Wave|Milk Drink|Return|Iron Head|Cheri Berry|Impish|0|255|255|0|0|0|161|122|161|45|81|111
+453|Miltank|5|Normal|Reversal|Endure|Facade|Zen Headbutt|Salac Berry|Adamant|0|255|0|0|0|255|163|136|118|47|83|144
+454|Miltank|6|Normal|Fire Punch|Ice Punch|Thunder Punch|Dizzy Punch|Scope Lens|Adamant|0|255|255|0|0|0|163|136|149|47|83|113
+455|Miltank|7|Normal|Earthquake|Rock Slide|Giga Impact|Zen Headbutt|Muscle Band|Adamant|0|255|0|0|0|255|167|140|122|51|87|148
+456|Blissey|4|Normal|Sing|Hyper Beam|Shadow Ball|Water Pulse|Chople Berry|Modest|255|0|0|255|0|0|352|18|21|128|146|66
+457|Blissey|5|Normal|Counter|Toxic|Double Team|Softboiled|Chesto Berry|Calm|255|0|0|0|255|0|354|20|23|88|196|68
+458|Blissey|6|Normal|Flamethrower|Ice Beam|Thunderbolt|Calm Mind|BrightPowder|Modest|255|0|0|255|0|0|354|20|23|130|148|68
+459|Blissey|7|Normal|Sing|Counter|Softboiled|Dream Eater|Leftovers|Calm|255|0|0|0|255|0|358|24|27|92|201|72
+460|Raikou|8|Electric|Thunderbolt|Thunder Wave|Light Screen|Shadow Ball|Lum Berry|Timid|0|0|0|255|0|255|165|94|95|167|120|183
+461|Raikou|8|Electric|Return|Crunch|Thunder Fang|Iron Head|King's Rock|Jolly|0|255|0|0|0|255|165|137|95|121|120|183
+462|Raikou|8|Electric|Thunder|Rain Dance|Signal Beam|Extrasensory|Wise Glasses|Modest|0|0|0|255|0|255|165|94|95|183|120|167
+463|Raikou|8|Electric|Thunderbolt|Shadow Ball|Extrasensory|Calm Mind|Shuca Berry|Modest|0|0|0|255|0|255|165|94|95|183|120|167
+464|Entei|8|Fire|Roar|Reflect|Return|Fire Fang|Shuca Berry|Jolly|0|255|0|0|0|255|190|167|105|99|95|167
+465|Entei|8|Fire|Bite|Fire Fang|Iron Head|Stone Edge|King's Rock|Jolly|0|255|0|0|0|255|190|167|105|99|95|167
+466|Entei|8|Fire|Hyper Beam|Solarbeam|Fire Blast|Sunny Day|Shuca Berry|Modest|0|0|0|255|0|255|190|121|105|156|95|152
+467|Entei|8|Fire|Shadow Ball|Overheat|Extrasensory|Calm Mind|Shuca Berry|Modest|0|0|0|255|0|255|190|121|105|156|95|152
+468|Suicune|8|Water|Surf|Icy Wind|Mirror Coat|Ominous Wind|Focus Sash|Calm|0|0|0|255|255|0|175|85|135|142|183|105
+469|Suicune|8|Water|Bite|Waterfall|Ice Fang|Iron Head|King's Rock|Jolly|0|255|0|0|0|255|175|127|135|99|135|150
+470|Suicune|8|Water|Hydro Pump|Blizzard|Shadow Ball|Hail|Lum Berry|Bold|0|0|255|255|0|0|175|85|183|142|135|105
+471|Suicune|8|Water|Surf|Ice Beam|Extrasensory|Calm Mind|Wacan Berry|Modest|255|0|0|255|0|0|207|85|135|156|135|105
+472|Larvitar|1|Rock/Ground|Bite|Dig|Rock Slide|Scary Face|Liechi Berry|Adamant|255|255|0|0|0|0|141|110|55|45|55|46
+473|Pupitar|2|Rock/Ground|Dig|Scary Face|Sandstorm|Rock Tomb|Hard Stone|Adamant|255|255|0|0|0|0|163|134|77|64|77|58
+474|Pupitar|3|Rock/Ground|Earthquake|Rock Slide|Scary Face|Crunch|Soft Sand|Adamant|255|255|0|0|0|0|165|136|79|66|79|60
+475|Tyranitar|4|Rock/Dark|Rock Slide|Curse|Payback|Avalanche|Focus Band|Brave|0|255|0|0|255|0|166|193|121|106|142|64
+476|Tyranitar|5|Rock/Dark|Fire Punch|Ice Punch|Thunder Punch|Aerial Ace|Choice Scarf|Jolly|0|255|0|0|0|255|168|178|123|97|113|115
+477|Tyranitar|6|Rock/Dark|Superpower|Dragon Claw|Aqua Tail|Shadow Claw|White Herb|Adamant|0|255|255|0|0|0|168|195|154|97|113|74
+478|Tyranitar|7|Rock/Dark|Earthquake|Crunch|Dragon Dance|Stone Edge|Chople Berry|Adamant|255|255|0|0|0|0|203|200|127|100|117|78
+479|Treecko|1|Grass|Mega Drain|Double Team|Swift|Flash|Miracle Seed|Timid|0|0|0|255|0|255|100|45|40|101|60|116
+480|Grovyle|2|Grass|Swift|Mud-Slap|Detect|Magical Leaf|Coba Berry|Timid|0|0|0|255|0|255|112|64|52|123|72|146
+481|Grovyle|3|Grass|Screech|Rock Slide|Crunch|Leaf Blade|Coba Berry|Adamant|0|255|0|0|0|255|114|115|54|84|74|135
+482|Sceptile|4|Grass|Quick Attack|Screech|Crunch|Leaf Blade|Liechi Berry|Jolly|0|255|0|0|0|255|136|127|76|104|96|178
+483|Sceptile|5|Grass|Leech Seed|Toxic|Double Team|Giga Drain|Leftovers|Timid|0|0|0|255|0|255|138|88|78|149|98|180
+484|Sceptile|6|Grass|Aerial Ace|Leaf Blade|Night Slash|X-Scissor|Scope Lens|Adamant|0|255|0|0|0|255|138|141|78|106|98|164
+485|Sceptile|7|Grass|Hyper Beam|Dragon Pulse|Focus Blast|Leaf Storm|Occa Berry|Timid|0|0|0|255|0|255|142|91|82|153|102|184
+486|Torchic|1|Fire|Ember|Double Team|Mirror Move|Mud-Slap|Charcoal|Docile|0|255|0|255|0|0|105|96|45|106|55|50
+487|Combusken|2|Fire/Fighting|Fire Punch|Double Kick|Sand Attack|Quick Attack|Liechi Berry|Adamant|255|255|0|0|0|0|153|135|67|82|67|62
+488|Combusken|3|Fire/Fighting|Sand Attack|Flamethrower|Slash|Sky Uppercut|Scope Lens|Docile|0|255|0|255|0|0|124|125|69|125|69|64
+489|Blaziken|4|Fire/Fighting|Reversal|Endure|Blaze Kick|Aerial Ace|Salac Berry|Adamant|0|255|0|0|0|255|146|178|81|108|81|122
+490|Blaziken|5|Fire/Fighting|Solarbeam|Sunny Day|Blast Burn|Focus Blast|BrightPowder|Timid|0|0|0|255|0|255|148|119|83|154|83|136
+491|Blaziken|6|Fire/Fighting|Earthquake|Blaze Kick|Shadow Claw|Stone Edge|Passho Berry|Adamant|0|255|0|0|0|255|148|180|83|110|83|124
+492|Blaziken|7|Fire/Fighting|Thunder Punch|Superpower|Flare Blitz|Night Slash|White Herb|Adamant|0|255|0|0|0|255|152|184|87|114|87|128
+493|Mudkip|1|Water|Growl|Mud-Slap|Icy Wind|Water Pulse|Mystic Water|Modest|255|0|0|255|0|0|141|67|55|94|55|45
+494|Marshtomp|2|Water/Ground|Growl|Ancient Power|Mud Shot|Water Pulse|Focus Band|Modest|0|0|0|255|255|0|132|82|77|107|108|57
+495|Marshtomp|3|Water/Ground|Earthquake|Protect|Ancient Power|Muddy Water|Persim Berry|Quiet|0|255|0|255|0|0|134|125|79|110|79|53
+496|Swampert|4|Water/Ground|Ice Punch|Earthquake|Waterfall|Protect|Shell Bell|Adamant|255|255|0|0|0|0|197|167|101|86|101|71
+497|Swampert|5|Water/Ground|Earthquake|Curse|Hammer Arm|Aqua Tail|Lum Berry|Adamant|255|255|0|0|0|0|199|169|103|88|103|73
+498|Swampert|6|Water/Ground|Ice Beam|Counter|Muddy Water|Earth Power|Expert Belt|Modest|255|0|0|255|0|0|199|110|103|141|103|73
+499|Swampert|7|Water/Ground|Earthquake|Mirror Coat|Aqua Tail|Avalanche|Rindo Berry|Adamant|255|255|0|0|0|0|203|173|107|91|107|77
+500|Mightyena|2|Dark|Bite|Roar|Poison Fang|Howl|Razor Fang|Jolly|0|255|0|0|0|255|132|128|77|60|67|118
+501|Mightyena|3|Dark|Take Down|Crunch|Howl|Sucker Punch|Chople Berry|Adamant|0|255|255|0|0|0|134|143|110|62|69|79
+502|Linoone|2|Normal|Slash|Tickle|Covet|Shadow Claw|Lansat Berry|Jolly|0|255|0|0|0|255|140|108|68|51|68|151
+503|Linoone|3|Normal|Dig|Frustration|Switcheroo|Shadow Claw|Choice Scarf|Jolly|0|255|0|0|0|255|142|110|70|53|70|154
+504|Beautifly|1|Bug/Flying|Mega Drain|Attract|Air Cutter|Silver Wind|SilverPowder|Modest|0|0|0|255|0|255|120|67|55|138|55|101
+505|Dustox|1|Bug/Poison|Whirlwind|Psybeam|Toxic|Silver Wind|SilverPowder|Modest|0|0|0|255|255|0|120|49|75|94|126|70
+506|Lombre|1|Water/Grass|Mega Drain|Rain Dance|Fake Out|Water Pulse|Damp Rock|Quiet|0|0|0|255|255|0|120|55|55|105|106|49
+507|Ludicolo|4|Water/Grass|Swords Dance|Razor Leaf|Waterfall|Drain Punch|Muscle Band|Adamant|0|255|0|0|255|0|146|123|81|90|142|81
+508|Ludicolo|5|Water/Grass|Leech Seed|Toxic|Double Team|Rain Dance|Leftovers|Impish|170|0|170|0|170|0|169|83|114|92|134|83
+509|Ludicolo|6|Water/Grass|Hydro Pump|Blizzard|Focus Blast|Grass Knot|Wide Lens|Modest|255|0|0|255|0|0|179|74|83|147|113|83
+510|Ludicolo|7|Water/Grass|Surf|Ice Beam|Giga Drain|Rain Dance|Lum Berry|Modest|0|0|0|255|255|0|152|78|87|151|148|87
+511|Nuzleaf|1|Grass/Dark|Razor Leaf|Harden|Faint Attack|Swagger|Aspear Berry|Adamant|255|255|0|0|0|0|161|116|45|58|45|65
+512|Shiftry|4|Grass/Dark|Faint Attack|Fake Out|Seed Bomb|X-Scissor|Persim Berry|Jolly|0|255|0|0|0|255|156|142|71|90|71|134
+513|Shiftry|5|Grass/Dark|Leech Seed|Double Team|Giga Drain|Synthesis|Leftovers|Calm|170|0|170|0|170|0|179|101|94|103|103|93
+514|Shiftry|6|Grass/Dark|Shadow Ball|Dark Pulse|Focus Blast|Leaf Storm|White Herb|Modest|255|0|0|255|0|0|189|101|73|147|73|93
+515|Shiftry|7|Grass/Dark|Explosion|Aerial Ace|Sucker Punch|Seed Bomb|Cheri Berry|Adamant|255|255|0|0|0|0|193|162|77|96|77|97
+516|Swellow|2|Normal/Flying|Growl|Quick Attack|Focus Energy|Pluck|King's Rock|Jolly|0|255|0|0|0|255|122|123|67|51|57|179
+517|Swellow|3|Normal/Flying|Growl|Facade|Aerial Ace|U-Turn|Toxic Orb|Adamant|0|255|0|0|0|255|124|137|69|53|59|165
+518|Pelipper|2|Water/Flying|Stockpile|Swallow|Air Cutter|Water Pulse|Chesto Berry|Modest|0|0|255|255|0|0|122|51|138|135|77|72
+519|Pelipper|3|Water/Flying|Surf|Ice Beam|Air Cutter|Tailwind|Shell Bell|Modest|0|0|255|255|0|0|124|53|140|137|79|74
+520|Gardevoir|4|Psychic|Thunder Wave|Psychic|Confuse Ray|Shadow Ball|Lum Berry|Calm|0|0|0|255|255|0|134|68|76|167|172|91
+521|Gardevoir|5|Psychic|Thunderbolt|Psychic|Rest|Calm Mind|Chesto Berry|Modest|0|0|0|255|255|0|136|70|78|185|159|93
+522|Gardevoir|6|Psychic|Psychic|Focus Blast|Energy Ball|Charge Beam|BrightPowder|Modest|0|0|0|255|255|0|136|70|78|185|159|93
+523|Gardevoir|7|Psychic|Thunderbolt|Psychic|Destiny Bond|Shadow Ball|Wise Glasses|Timid|0|0|0|255|0|255|140|73|82|173|132|140
+524|Masquerain|2|Bug/Flying|Scary Face|Sweet Scent|Air Cutter|Silver Wind|SilverPowder|Bold|0|0|255|255|0|0|132|60|110|118|89|67
+525|Masquerain|3|Bug/Flying|Stun Spore|Shadow Ball|Air Slash|Bug Buzz|Petaya Berry|Quiet|0|0|0|255|255|0|134|69|71|132|122|62
+526|Breloom|4|Grass/Fighting|Counter|Rock Slide|Sky Uppercut|Seed Bomb|Focus Sash|Impish|0|255|255|0|0|0|126|172|134|63|71|81
+527|Breloom|5|Grass/Fighting|Leech Seed|Giga Drain|Synthesis|Drain Punch|Big Root|Brave|0|255|0|255|0|0|128|191|93|104|73|74
+528|Breloom|6|Grass/Fighting|Thunder Punch|Dynamic Punch|Facade|Stone Edge|Toxic Orb|Adamant|0|255|255|0|0|0|128|191|124|65|73|83
+529|Breloom|7|Grass/Fighting|Spore|Focus Punch|Seed Bomb|Giga Impact|Shell Bell|Adamant|0|255|255|0|0|0|132|195|128|69|77|87
+530|Vigoroth|2|Normal|Counter|Slash|Encore|Pursuit|Focus Band|Adamant|255|255|0|0|0|0|173|129|87|55|62|97
+531|Vigoroth|3|Normal|Reversal|Endure|Crush Claw|Shadow Claw|Salac Berry|Adamant|0|255|0|0|0|255|144|132|89|57|64|130
+532|Slaking|4|Normal|Facade|Yawn|Slack Off|Shadow Claw|Lax Incense|Impish|255|0|255|0|0|0|247|171|156|95|76|111
+533|Slaking|5|Normal|Fire Punch|Ice Punch|Thunder Punch|Crush Claw|Lum Berry|Adamant|0|255|255|0|0|0|218|224|144|97|78|113
+534|Slaking|6|Normal|Return|Aerial Ace|Night Slash|Gunk Shot|Life Orb|Jolly|0|255|0|0|0|255|218|204|113|97|78|158
+535|Slaking|7|Normal|Earthquake|Hammer Arm|Giga Impact|Shadow Claw|Muscle Band|Adamant|255|255|0|0|0|0|253|228|117|100|82|117
+536|Ninjask|2|Bug/Flying|Sand Attack|Baton Pass|Aerial Ace|Bug Bite|Chesto Berry|Adamant|255|255|0|0|0|0|154|140|52|51|57|167
+537|Ninjask|3|Bug/Flying|Baton Pass|Aerial Ace|Night Slash|X-Scissor|Razor Fang|Adamant|255|255|0|0|0|0|156|143|54|53|59|169
+538|Shedinja|1|Bug/Ghost|Sand Attack|Confuse Ray|Fury Cutter|Shadow Sneak|Lax Incense|Adamant|0|255|0|0|0|255|61|138|50|31|35|76
+539|Loudred|1|Normal|Stomp|Bite|Supersonic|Howl|Persim Berry|Adamant|255|255|0|0|0|0|175|117|48|68|48|53
+540|Exploud|4|Normal|Torment|Hyper Voice|Extrasensory|Water Pulse|Chople Berry|Modest|255|0|0|255|0|0|201|91|74|146|74|79
+541|Exploud|5|Normal|Fire Punch|Ice Punch|Thunder Punch|Facade|Life Orb|Adamant|255|255|0|0|0|0|203|148|76|93|76|81
+542|Exploud|6|Normal|Earthquake|Crunch|Facade|Avalanche|Life Orb|Adamant|255|255|0|0|0|0|203|148|76|93|76|81
+543|Exploud|7|Normal|Surf|Ice Beam|Hyper Voice|Overheat|White Herb|Modest|255|0|0|255|0|0|207|97|80|152|80|85
+544|Hariyama|4|Fighting|Earthquake|Fake Out|Facade|Arm Thrust|Persim Berry|Adamant|255|255|0|0|0|0|241|178|71|45|71|61
+545|Hariyama|5|Fighting|Fake Out|Revenge|Payback|Fling|Iron Ball|Adamant|255|255|0|0|0|0|243|180|73|47|73|63
+546|Hariyama|6|Fighting|Fire Punch|Ice Punch|Thunder Punch|Dynamic Punch|Life Orb|Adamant|255|255|0|0|0|0|243|180|73|47|73|63
+547|Hariyama|7|Fighting|Earthquake|Cross Chop|Poison Jab|Stone Edge|Scope Lens|Adamant|255|255|0|0|0|0|247|184|77|51|77|67
+548|Nosepass|1|Rock|Thunder Wave|Sandstorm|Ancient Power|Shock Wave|Hard Stone|Modest|0|0|255|255|0|0|90|45|171|89|95|35
+549|Delcatty|1|Normal|Faint Attack|Foresight|Fake Out|Secret Power|Sitrus Berry|Adamant|255|255|0|0|0|0|161|111|70|54|60|75
+550|Sableye|1|Dark/Ghost|Faint Attack|Detect|Fake Out|Shadow Sneak|BlackGlasses|Impish|0|255|255|0|0|0|110|111|122|63|70|55
+551|Mawile|1|Steel|Bite|Tickle|Iron Defense|Iron Head|BrightPowder|Impish|255|0|255|0|0|0|141|90|133|54|60|55
+552|Aron|1|Steel/Rock|Protect|Metal Claw|Rock Tomb|Iron Defense|Metal Coat|Impish|0|255|255|0|0|0|110|106|149|40|45|35
+553|Lairon|2|Steel/Rock|Protect|Metal Claw|Rock Tomb|Iron Defense|Metal Coat|Impish|0|255|255|0|0|0|122|128|195|51|57|47
+554|Lairon|3|Steel/Rock|Roar|Earthquake|Rock Slide|Iron Head|Sitrus Berry|Impish|0|255|255|0|0|0|124|130|198|53|59|49
+555|Aggron|4|Steel/Rock|Screech|Rock Slide|Sandstorm|Iron Head|Quick Claw|Adamant|0|255|255|0|0|0|136|167|222|63|71|61
+556|Aggron|5|Steel/Rock|Fire Punch|Ice Punch|Thunder Punch|Metal Claw|Quick Claw|Adamant|0|255|255|0|0|0|138|169|224|65|73|63
+557|Aggron|6|Steel/Rock|Iron Tail|Aerial Ace|Dragon Rush|Avalanche|Muscle Band|Adamant|0|255|255|0|0|0|138|169|224|65|73|63
+558|Aggron|7|Steel/Rock|Earthquake|Metal Burst|Shadow Claw|Stone Edge|Focus Sash|Adamant|0|255|255|0|0|0|142|173|228|69|77|67
+559|Medicham|4|Fighting/Psychic|Reversal|Endure|Fake Out|Zen Headbutt|Salac Berry|Jolly|0|255|0|0|0|255|126|102|86|63|86|134
+560|Medicham|5|Fighting/Psychic|Recover|Detect|Poison Jab|Drain Punch|Cheri Berry|Jolly|0|255|0|0|0|255|128|104|88|65|88|136
+561|Medicham|6|Fighting/Psychic|Psychic|Shadow Ball|Calm Mind|Focus Blast|Wise Glasses|Modest|0|0|0|255|0|255|128|65|88|114|88|124
+562|Medicham|7|Fighting/Psychic|Fire Punch|Ice Punch|Thunder Punch|Psycho Cut|Scope Lens|Adamant|0|255|0|0|0|255|132|118|92|69|92|128
+563|Manectric|4|Electric|Roar|Thunder Wave|Crunch|Thunder Fang|Shuca Berry|Adamant|0|255|0|0|0|255|136|128|71|104|71|147
+564|Manectric|5|Electric|Hyper Beam|Thunder Wave|Thunder|Rain Dance|Damp Rock|Modest|0|0|0|255|0|255|138|79|73|163|73|149
+565|Manectric|6|Electric|Bite|Thunder Fang|Ice Fang|Fire Fang|Quick Claw|Adamant|0|255|0|0|0|255|138|130|73|106|73|149
+566|Manectric|7|Electric|Flamethrower|Thunderbolt|Swift|Signal Beam|BrightPowder|Timid|0|0|0|255|0|255|142|82|77|153|77|168
+567|Plusle|1|Electric|Swift|Helping Hand|Fake Tears|Shock Wave|Petaya Berry|Timid|0|0|0|255|0|255|120|49|45|121|80|144
+568|Minun|1|Electric|Swift|Encore|Helping Hand|Shock Wave|Salac Berry|Timid|0|0|0|255|0|255|120|40|55|111|90|144
+569|Volbeat|1|Bug|Quick Attack|Confuse Ray|Helping Hand|U-Turn|Liechi Berry|Jolly|0|255|0|0|0|255|125|109|60|46|80|133
+570|Illumise|1|Bug|Swift|Helping Hand|Wish|Silver Wind|Petaya Berry|Timid|0|0|0|255|0|255|125|46|60|109|80|133
+571|Roselia|1|Grass/Poison|Mega Drain|Toxic|Cotton Spore|Grass Whistle|Black Sludge|Modest|0|0|0|255|255|0|110|58|50|149|116|70
+572|Swalot|2|Poison|Sludge|Stockpile|Spit Up|Swallow|Lax Incense|Modest|170|0|170|0|170|0|183|72|111|88|111|62
+573|Swalot|3|Poison|Sludge Bomb|Giga Drain|Shadow Ball|Yawn|Black Sludge|Modest|255|0|0|255|0|0|195|73|92|124|92|64
+574|Carvanha|1|Water/Dark|Bite|Scary Face|Swagger|Aqua Jet|Cheri Berry|Adamant|255|255|0|0|0|0|136|138|25|63|25|70
+575|Sharpedo|2|Water/Dark|Bite|Focus Energy|Scary Face|Water Pulse|Cheri Berry|Hardy|0|0|0|255|0|255|132|127|47|133|47|133
+576|Sharpedo|3|Water/Dark|Waterfall|Swagger|Crunch|Ice Fang|Wacan Berry|Adamant|0|255|0|0|0|255|134|176|49|93|49|135
+577|Wailmer|1|Water|Roar|Mist|Icy Wind|Water Pulse|Sea Incense|Modest|0|0|0|255|0|255|190|67|40|116|40|96
+578|Wailord|4|Water|Surf|Ice Beam|Double Team|Attract|Sitrus Berry|Modest|255|0|0|255|0|0|267|90|56|145|56|71
+579|Wailord|5|Water|Toxic|Amnesia|Rest|Whirlpool|Chesto Berry|Impish|170|0|170|0|170|0|259|103|86|92|79|73
+580|Wailord|6|Water|Earthquake|Waterfall|Curse|Avalanche|Leftovers|Adamant|255|255|0|0|0|0|269|147|58|92|58|73
+581|Wailord|7|Water|Hydro Pump|Blizzard|Hyper Beam|Fissure|Quick Claw|Modest|255|0|0|255|0|0|273|96|62|151|62|77
+582|Numel|1|Fire/Ground|Ember|Sandstorm|Magnitude|Rock Tomb|Lax Incense|Serious|0|255|0|255|0|0|120|96|45|101|50|40
+583|Camerupt|2|Fire/Ground|Amnesia|Magnitude|Will-O-Wisp|Rock Tomb|Focus Band|Brave|255|255|0|0|0|0|163|151|77|112|82|42
+584|Camerupt|3|Fire/Ground|Sandstorm|Ancient Power|Eruption|Earth Power|Quick Claw|Modest|255|0|0|255|0|0|165|98|79|159|84|49
+585|Torkoal|2|Fire|Ember|Smog|Amnesia|Mud-Slap|Petaya Berry|Bold|0|0|255|255|0|0|132|82|195|123|77|27
+586|Torkoal|3|Fire|Solarbeam|Sunny Day|Heat Wave|Earth Power|Quick Claw|Bold|0|0|255|255|0|0|134|84|198|125|79|29
+587|Spoink|1|Psychic|Confuse Ray|Swift|Psywave|Magic Coat|Sitrus Berry|Modest|0|0|0|255|255|0|120|27|40|116|116|65
+588|Grumpig|2|Psychic|Psybeam|Confuse Ray|Future Sight|Grass Knot|Petaya Berry|Calm|0|0|0|255|255|0|142|46|72|128|162|87
+589|Grumpig|3|Psychic|Psychic|Mirror Coat|Power Gem|Charge Beam|Colbur Berry|Calm|0|0|0|255|255|0|144|48|74|130|165|89
+590|Spinda|1|Normal|Dizzy Punch|Faint Attack|Teeter Dance|Drain Punch|Silk Scarf|Adamant|255|255|0|0|0|0|151|105|65|58|65|65
+591|Vibrava|1|Ground/Dragon|Supersonic|Mud-Slap|Dragon Breath|Ominous Wind|Aspear Berry|Modest|0|0|0|255|0|255|110|67|55|94|55|106
+592|Flygon|4|Ground/Dragon|Earthquake|Sandstorm|Dragon Claw|Roost|Yache Berry|Adamant|0|255|0|0|0|255|146|156|91|81|91|142
+593|Flygon|5|Ground/Dragon|Fire Punch|Thunder Punch|Fissure|Aerial Ace|Razor Fang|Jolly|0|255|0|0|0|255|148|144|93|83|93|158
+594|Flygon|6|Ground/Dragon|Flamethrower|Giga Drain|Earth Power|Draco Meteor|White Herb|Timid|0|0|0|255|0|255|148|101|93|124|93|158
+595|Flygon|7|Ground/Dragon|Earthquake|Outrage|Crunch|Stone Edge|Lum Berry|Adamant|0|255|0|0|0|255|152|162|97|87|97|148
+596|Cacnea|1|Grass|Cotton Spore|Faint Attack|Needle Arm|Grass Whistle|Aspear Berry|Adamant|255|255|0|0|0|0|141|133|45|81|45|40
+597|Cacturne|2|Grass/Dark|Faint Attack|Spikes|Ingrain|Bullet Seed|Chople Berry|Adamant|255|255|0|0|0|0|163|168|67|109|67|62
+598|Cacturne|3|Grass/Dark|Acid|Cotton Spore|Giga Drain|Dark Pulse|Shell Bell|Modest|255|0|0|255|0|0|165|111|69|170|69|64
+599|Swablu|1|Normal/Flying|Mirror Move|Swift|Attract|Air Cutter|Mental Herb|Modest|0|0|0|255|255|0|105|40|65|83|111|55
+600|Altaria|4|Dragon/Flying|Rest|Aerial Ace|Dragon Claw|Dragon Dance|Chesto Berry|Careful|0|255|0|0|255|0|141|112|101|72|161|91
+601|Altaria|5|Dragon/Flying|Sing|Perish Song|Dragon Pulse|Ominous Wind|Shell Bell|Modest|0|0|0|255|255|0|143|74|103|125|149|93
+602|Altaria|6|Dragon/Flying|Earthquake|Sky Attack|Dragon Dance|Dragon Rush|BrightPowder|Adamant|0|255|0|0|255|0|143|125|103|74|149|93
+603|Altaria|7|Dragon/Flying|Flamethrower|Ice Beam|Air Cutter|Draco Meteor|White Herb|Modest|0|0|0|255|0|255|147|78|107|129|122|128
+604|Zangoose|2|Normal|Scratch|Leer|Detect|Pursuit|Persim Berry|Adamant|0|255|0|0|0|255|135|168|67|60|67|128
+605|Zangoose|3|Normal|Taunt|Crush Claw|Aerial Ace|Shadow Claw|Razor Claw|Adamant|0|255|0|0|0|255|137|170|69|62|69|130
+606|Seviper|2|Poison|Lick|Glare|Knock Off|Poison Tail|Scope Lens|Adamant|255|255|0|0|0|0|166|151|67|96|67|72
+607|Seviper|3|Poison|Sludge Bomb|Swagger|Crunch|Aqua Tail|Black Sludge|Adamant|255|255|0|0|0|0|168|154|69|98|69|74
+608|Lunatone|2|Rock/Psychic|Confusion|Reflect|Ancient Power|Cosmic Power|Sitrus Berry|Modest|0|0|0|255|255|0|132|55|72|146|123|77
+609|Lunatone|3|Rock/Psychic|Psychic|Ancient Power|Shadow Ball|Cosmic Power|Passho Berry|Modest|0|0|0|255|255|0|134|57|74|148|125|79
+610|Solrock|2|Rock/Psychic|Light Screen|Psywave|Rock Tomb|Cosmic Power|Sitrus Berry|Adamant|0|255|255|0|0|0|132|146|123|55|72|77
+611|Solrock|3|Rock/Psychic|Rock Slide|Will-O-Wisp|Cosmic Power|Zen Headbutt|Passho Berry|Adamant|0|255|255|0|0|0|134|148|125|57|74|79
+612|Whiscash|4|Water/Ground|Surf|Amnesia|Icy Wind|Earth Power|Shell Bell|Modest|255|0|0|255|0|0|207|80|84|129|82|71
+613|Whiscash|5|Water/Ground|Thrash|Earthquake|Rock Slide|Aqua Tail|Persim Berry|Adamant|255|255|0|0|0|0|209|134|86|80|84|73
+614|Whiscash|6|Water/Ground|Hydro Pump|Blizzard|Fissure|Earth Power|Zoom Lens|Modest|255|0|0|255|0|0|209|81|86|132|84|73
+615|Whiscash|7|Water/Ground|Earthquake|Aqua Tail|Zen Headbutt|Stone Edge|Muscle Band|Adamant|255|255|0|0|0|0|213|138|90|83|88|77
+616|Corphish|1|Water|Vice Grip|Bubble Beam|Swagger|Knock Off|Pecha Berry|Brave|255|0|0|255|0|0|134|93|70|86|40|36
+617|Crawdaunt|2|Water/Dark|Bubble Beam|Harden|Taunt|Dark Pulse|Persim Berry|Modest|0|0|255|255|0|0|125|114|123|140|62|62
+618|Crawdaunt|3|Water/Dark|Swords Dance|Crabhammer|Crunch|X-Scissor|Quick Claw|Adamant|0|255|255|0|0|0|127|176|125|89|64|64
+619|Baltoy|1|Ground/Psychic|Psybeam|Light Screen|Mud-Slap|Ancient Power|TwistedSpoon|Modest|0|0|0|255|255|0|100|40|60|83|106|60
+620|Claydol|4|Ground/Psychic|Earthquake|Zen Headbutt|Trick Room|Grass Knot|Kasib Berry|Brave|0|0|255|0|255|0|126|89|147|81|162|77
+621|Claydol|5|Ground/Psychic|Ancient Power|Shadow Ball|Signal Beam|Earth Power|Rindo Berry|Modest|0|0|255|255|0|0|128|74|149|125|133|88
+622|Claydol|6|Ground/Psychic|Ice Beam|Psychic|Earth Power|Charge Beam|Wise Glasses|Modest|0|0|0|255|255|0|128|74|118|125|164|88
+623|Claydol|7|Ground/Psychic|Earthquake|Explosion|Rock Slide|Zen Headbutt|Lax Incense|Adamant|0|255|0|0|255|0|132|129|122|78|168|92
+624|Lileep|1|Rock/Grass|Confuse Ray|Ancient Power|Ingrain|Grass Knot|Lax Incense|Calm|170|0|170|0|170|0|147|41|103|66|124|28
+625|Cradily|4|Rock/Grass|Confuse Ray|Sandstorm|Ancient Power|Energy Ball|Razor Claw|Impish|170|0|170|0|170|0|173|92|141|82|139|54
+626|Cradily|5|Rock/Grass|Toxic|Double Team|Stockpile|Ingrain|Leftovers|Impish|170|0|170|0|170|0|175|94|144|84|141|56
+627|Cradily|6|Rock/Grass|Recover|Sludge Bomb|Giga Drain|Ingrain|Big Root|Calm|170|0|170|0|170|0|175|84|131|94|155|56
+628|Cradily|7|Rock/Grass|Earthquake|Mirror Coat|Seed Bomb|Stone Edge|Leftovers|Calm|170|0|170|0|170|0|179|88|135|98|159|60
+629|Anorith|1|Rock/Bug|Protect|Fury Cutter|Metal Claw|Rock Blast|Metronome|Adamant|0|255|0|0|0|255|105|144|55|40|55|111
+630|Armaldo|4|Rock/Bug|Earthquake|Rock Slide|Iron Defense|X-Scissor|Razor Claw|Adamant|0|255|0|0|255|0|141|183|111|72|122|56
+631|Armaldo|5|Rock/Bug|Swagger|Crush Claw|Aerial Ace|Aqua Tail|Scope Lens|Adamant|0|255|0|0|255|0|143|185|113|74|124|58
+632|Armaldo|6|Rock/Bug|Earthquake|Superpower|Giga Impact|Stone Edge|Choice Band|Adamant|0|255|255|0|0|0|143|185|144|74|93|58
+633|Armaldo|7|Rock/Bug|Earthquake|X-Scissor|Cross Poison|Stone Edge|Life Orb|Adamant|0|255|255|0|0|0|147|190|148|78|97|62
+634|Milotic|4|Water|Surf|Ice Beam|Hypnosis|Attract|Shell Bell|Modest|255|0|0|255|0|0|192|63|90|156|136|92
+635|Milotic|5|Water|Toxic|Double Team|Confuse Ray|Aqua Ring|Leftovers|Impish|255|0|255|0|0|0|194|73|135|101|138|94
+636|Milotic|6|Water|Hydro Pump|Blizzard|Recover|Mirror Coat|Wide Lens|Calm|0|0|0|255|255|0|163|65|92|144|185|94
+637|Milotic|7|Water|Surf|Ice Beam|Recover|Dragon Pulse|Lum Berry|Modest|255|0|0|255|0|0|198|69|96|162|142|98
+638|Castform|1|Normal|Rain Dance|Sunny Day|Hail|Weather Ball|Persim Berry|Timid|0|0|0|255|0|255|130|67|75|106|75|116
+639|Kecleon|2|Normal|Tail Whip|Slash|Magic Coat|Shadow Sneak|Lansat Berry|Careful|0|255|0|0|255|0|122|128|77|60|173|47
+640|Kecleon|3|Normal|Frustration|Trick|Aerial Ace|Shadow Claw|Choice Scarf|Careful|0|255|0|0|255|0|124|130|79|62|176|49
+641|Shuppet|1|Ghost|Will-O-Wisp|Knock Off|Grudge|Shadow Sneak|Spell Tag|Adamant|255|255|0|0|0|0|135|122|40|61|38|50
+642|Banette|2|Ghost|Spite|Will-O-Wisp|Knock Off|Shadow Sneak|Rawst Berry|Adamant|255|255|0|0|0|0|157|168|72|81|70|72
+643|Banette|3|Ghost|Faint Attack|Will-O-Wisp|Shadow Claw|Trick Room|Colbur Berry|Adamant|255|255|0|0|0|0|159|170|74|82|72|74
+644|Duskull|1|Ghost|Confuse Ray|Pain Split|Will-O-Wisp|Shadow Sneak|Spell Tag|Adamant|0|0|255|0|255|0|80|49|126|31|126|30
+645|Dusclops|2|Ghost|Confuse Ray|Pain Split|Will-O-Wisp|Shadow Sneak|Rawst Berry|Impish|0|0|255|0|255|0|102|77|184|60|168|32
+646|Dusclops|3|Ghost|Confuse Ray|Brick Break|Shadow Punch|Payback|Colbur Berry|Impish|170|0|170|0|170|0|125|79|176|62|160|34
+647|Tropius|2|Grass/Flying|Leech Seed|Razor Leaf|Aerial Ace|Captivate|Lansat Berry|Adamant|255|255|0|0|0|0|192|116|90|71|94|58
+648|Tropius|3|Grass/Flying|Giga Drain|Synthesis|Sunny Day|Air Slash|Occa Berry|Modest|255|0|0|255|0|0|194|69|92|123|96|60
+649|Chimecho|2|Psychic|Psywave|Icy Wind|Heal Bell|Safeguard|Pecha Berry|Calm|0|0|0|255|255|0|127|51|77|133|129|72
+650|Chimecho|3|Psychic|Psychic|Hypnosis|Dream Eater|Shadow Ball|TwistedSpoon|Quiet|255|0|0|255|0|0|160|59|79|148|89|66
+651|Absol|4|Dark|Double Team|Facade|Taunt|Sucker Punch|Chople Berry|Jolly|0|255|0|0|0|255|131|172|71|77|71|128
+652|Absol|5|Dark|Thunder Wave|Swagger|Attract|Punishment|Quick Claw|Adamant|255|255|0|0|0|0|164|191|73|79|73|88
+653|Absol|6|Dark|Aerial Ace|Night Slash|X-Scissor|Psycho Cut|Razor Claw|Jolly|0|255|0|0|0|255|133|174|73|79|73|130
+654|Absol|7|Dark|Superpower|Night Slash|Giga Impact|Zen Headbutt|Choice Band|Adamant|0|255|0|0|0|255|137|195|77|82|77|123
+655|Snorunt|1|Ice|Headbutt|Bite|Protect|Ice Fang|King's Rock|Adamant|255|255|0|0|0|0|141|94|55|49|55|55
+656|Glalie|4|Ice|Gyro Ball|Payback|Avalanche|Ice Shard|Iron Ball|Brave|170|0|170|0|170|0|167|100|112|91|112|81
+657|Glalie|5|Ice|Earthquake|Explosion|Crunch|Ice Fang|Lum Berry|Adamant|255|255|0|0|0|0|179|136|93|83|93|93
+658|Glalie|6|Ice|Ice Beam|Shadow Ball|Signal Beam|Water Pulse|Scope Lens|Modest|255|0|0|255|0|0|179|83|93|136|93|93
+659|Glalie|7|Ice|Blizzard|Hail|Sheer Cold|Dark Pulse|Lax Incense|Modest|255|0|0|255|0|0|183|87|97|140|97|97
+660|Sealeo|2|Ice/Water|Aurora Beam|Encore|Hail|Water Pulse|Icy Rock|Relaxed|255|0|0|255|0|0|183|67|84|113|77|46
+661|Sealeo|3|Ice/Water|Surf|Ice Beam|Hail|Signal Beam|Chesto Berry|Quiet|255|0|0|255|0|0|185|69|79|126|79|48
+662|Walrein|4|Ice/Water|Swagger|Encore|Aqua Tail|Ice Fang|Chople Berry|Adamant|255|255|0|0|0|0|207|134|101|95|101|76
+663|Walrein|5|Ice/Water|Earthquake|Curse|Crunch|Avalanche|Life Orb|Brave|255|255|0|0|0|0|209|136|103|108|103|70
+664|Walrein|6|Ice/Water|Fissure|Rest|Sleep Talk|Sheer Cold|Lax Incense|Bold|0|0|255|0|255|0|178|83|147|108|134|78
+665|Walrein|7|Ice/Water|Surf|Ice Beam|Hail|Signal Beam|Leftovers|Modest|255|0|0|255|0|0|213|87|107|157|107|82
+666|Clamperl|1|Water|Toxic|Protect|Whirlpool|Iron Defense|DeepSeaScale|Bold|255|0|255|0|0|0|126|62|133|79|60|37
+667|Huntail|2|Water|Bite|Screech|Rain Dance|Water Pulse|Mystic Water|Quirky|0|255|255|0|0|0|117|142|143|101|82|59
+668|Huntail|3|Water|Rain Dance|Crunch|Aqua Tail|Ice Fang|Shell Bell|Adamant|0|255|255|0|0|0|119|158|145|92|84|61
+669|Gorebyss|2|Water|Confusion|Rain Dance|Water Pulse|Aqua Ring|Wave Incense|Bold|255|0|255|0|0|0|148|81|157|121|82|59
+670|Gorebyss|3|Water|Surf|Ice Beam|Psychic|Rain Dance|Shell Bell|Modest|0|0|255|255|0|0|119|83|145|169|84|61
+671|Relicanth|2|Water/Rock|Harden|Mud Sport|Rock Tomb|Water Pulse|Wave Incense|Relaxed|0|0|255|255|0|0|162|97|184|83|72|55
+672|Relicanth|3|Water/Rock|Rest|Rock Slide|Yawn|Aqua Tail|Chesto Berry|Impish|0|255|255|0|0|0|164|130|187|48|74|64
+673|Luvdisc|1|Water|Sweet Kiss|Attract|Rain Dance|Water Pulse|Damp Rock|Timid|0|0|0|255|0|255|103|31|60|76|70|146
+674|Bagon|1|Dragon|Headbutt|Scary Face|Dragon Breath|Brick Break|Dragon Fang|Naughty|0|255|255|0|0|0|105|122|96|45|31|55
+675|Shelgon|2|Dragon|Headbutt|Protect|Scary Face|Dragon Breath|Aspear Berry|Quiet|0|255|0|255|0|0|127|133|107|107|57|51
+676|Shelgon|3|Dragon|Scary Face|Crunch|Dragon Claw|Dragon Dance|Focus Band|Adamant|0|255|255|0|0|0|129|148|140|62|59|59
+677|Salamence|4|Dragon/Flying|Scary Face|Aerial Ace|Dragon Claw|Aqua Tail|Cheri Berry|Adamant|0|255|0|0|0|255|161|194|91|108|91|142
+678|Salamence|5|Dragon/Flying|Dragon Claw|Dragon Dance|Thunder Fang|Fire Fang|Razor Fang|Jolly|0|255|0|0|0|255|163|179|93|110|93|158
+679|Salamence|6|Dragon/Flying|Flamethrower|Hydro Pump|Draco Meteor|Ominous Wind|Wise Glasses|Modest|0|0|0|255|0|255|163|133|93|169|93|144
+680|Salamence|7|Dragon/Flying|Earthquake|Outrage|Crunch|Zen Headbutt|Lum Berry|Adamant|0|255|0|0|0|255|167|201|97|114|97|148
+681|Metang|2|Steel/Psychic|Confusion|Scary Face|Metal Claw|Magnet Rise|Chesto Berry|Hardy|0|255|0|255|0|0|122|113|107|93|87|57
+682|Metang|3|Steel/Psychic|Scary Face|Meteor Mash|Bullet Punch|Zen Headbutt|Shuca Berry|Adamant|255|255|0|0|0|0|155|126|109|57|89|59
+683|Metagross|4|Steel/Psychic|Light Screen|Facade|Bullet Punch|Zen Headbutt|BrightPowder|Adamant|0|255|255|0|0|0|146|194|172|95|101|81
+684|Metagross|5|Steel/Psychic|Psychic|Sludge Bomb|Shadow Ball|Flash Cannon|Wise Glasses|Modest|0|0|255|255|0|0|148|133|174|152|103|83
+685|Metagross|6|Steel/Psychic|Ice Punch|Thunder Punch|Aerial Ace|Hammer Arm|Occa Berry|Adamant|0|255|255|0|0|0|148|196|174|97|103|83
+686|Metagross|7|Steel/Psychic|Earthquake|Explosion|Meteor Mash|Zen Headbutt|Quick Claw|Adamant|255|255|0|0|0|0|183|201|147|100|107|87
+687|Regirock|8|Rock|Earthquake|Rock Slide|Sandstorm|Brick Break|Leftovers|Impish|0|255|255|0|0|0|155|152|277|63|120|70
+688|Regirock|8|Rock|Fire Punch|Ice Punch|Thunder Punch|Drain Punch|Razor Claw|Adamant|255|255|0|0|0|0|187|167|220|63|120|70
+689|Regirock|8|Rock|Rest|Curse|Hammer Arm|Stone Edge|Chesto Berry|Careful|255|0|0|0|255|0|187|120|220|63|167|70
+690|Regirock|8|Rock|Earthquake|Explosion|Hammer Arm|Stone Edge|Quick Claw|Careful|0|255|0|0|255|0|155|152|220|63|167|70
+691|Regice|8|Ice|Ice Beam|Amnesia|Signal Beam|Charge Beam|Lum Berry|Modest|0|0|0|255|255|0|155|63|120|167|252|70
+692|Regice|8|Ice|Double Team|Curse|Hammer Arm|Avalanche|Leftovers|Impish|255|0|255|0|0|0|187|70|167|108|220|70
+693|Regice|8|Ice|Ice Beam|Rest|Ancient Power|Flash Cannon|Chesto Berry|Bold|0|0|255|255|0|0|155|63|167|152|220|70
+694|Regice|8|Ice|Ice Beam|Hyper Beam|Thunderbolt|Focus Blast|Shell Bell|Modest|255|0|0|255|0|0|187|63|120|167|220|70
+695|Registeel|8|Steel|Thunderbolt|Thunder Wave|Amnesia|Flash Cannon|Lum Berry|Modest|255|0|0|255|0|0|187|85|170|139|170|70
+696|Registeel|8|Steel|Toxic|Double Team|Iron Defense|Iron Head|Leftovers|Adamant|170|0|170|0|170|0|176|104|191|85|191|70
+697|Registeel|8|Steel|Ice Punch|Thunder Punch|Aerial Ace|Shadow Claw|Razor Claw|Adamant|255|255|0|0|0|0|187|139|170|85|170|70
+698|Registeel|8|Steel|Earthquake|Curse|Hammer Arm|Iron Head|Shell Bell|Adamant|170|0|170|0|170|0|176|104|191|85|191|70
+699|Latias|8|Dragon/Psychic|Psychic|Attract|Calm Mind|Dragon Pulse|Lum Berry|Calm|0|0|0|255|255|0|155|90|110|162|200|130
+700|Latias|8|Dragon/Psychic|Earthquake|Aerial Ace|Dragon Claw|Zen Headbutt|Expert Belt|Adamant|0|255|0|0|0|255|155|145|110|117|150|162
+701|Latias|8|Dragon/Psychic|Ice Beam|Psychic|Shadow Ball|Energy Ball|BrightPowder|Timid|0|0|0|255|0|255|155|90|110|162|150|178
+702|Latias|8|Dragon/Psychic|Surf|Thunderbolt|Mist Ball|Draco Meteor|White Herb|Modest|0|0|0|255|0|255|155|90|110|178|150|162
+703|Latios|8|Dragon/Psychic|Thunder Wave|Psychic|Calm Mind|Dragon Pulse|Focus Band|Calm|0|0|0|255|255|0|155|99|100|182|178|130
+704|Latios|8|Dragon/Psychic|Earthquake|Dragon Claw|Dragon Dance|Shadow Claw|Lum Berry|Adamant|0|255|0|0|0|255|155|156|100|135|130|162
+705|Latios|8|Dragon/Psychic|Ice Beam|Thunderbolt|Psychic|Energy Ball|BrightPowder|Timid|0|0|0|255|0|255|155|99|100|182|130|178
+706|Latios|8|Dragon/Psychic|Surf|Hyper Beam|Luster Purge|Draco Meteor|White Herb|Modest|0|0|0|255|0|255|155|99|100|200|130|162
+707|Turtwig|1|Grass|Bite|Razor Leaf|Withdraw|Tickle|Occa Berry|Adamant|255|255|0|0|0|0|146|114|69|45|60|36
+708|Grotle|2|Grass|Bite|Leech Seed|Razor Leaf|Synthesis|Big Root|Relaxed|0|255|255|0|0|0|137|127|135|62|72|38
+709|Grotle|3|Grass|Curse|Synthesis|Crunch|Seed Bomb|Occa Berry|Brave|0|255|255|0|0|0|139|141|125|64|74|40
+710|Torterra|4|Grass/Ground|Earthquake|Rock Slide|Curse|Grass Knot|Yache Berry|Adamant|255|255|0|0|0|0|192|166|116|77|96|67
+711|Torterra|5|Grass/Ground|Leech Seed|Amnesia|Giga Drain|Synthesis|Leftovers|Sassy|170|0|170|0|170|0|184|122|139|88|130|62
+712|Torterra|6|Grass/Ground|Hyper Beam|Leech Seed|Frenzy Plant|Earth Power|Lax Incense|Modest|0|0|255|255|0|0|163|109|149|130|98|69
+713|Torterra|7|Grass/Ground|Earthquake|Crunch|Stone Edge|Wood Hammer|Quick Claw|Adamant|255|255|0|0|0|0|198|172|122|82|102|73
+714|Chimchar|1|Fire|Leer|Flame Wheel|Fake Out|Facade|Passho Berry|Adamant|0|255|0|0|0|255|104|103|49|56|49|97
+715|Monferno|2|Fire/Fighting|Fury Swipes|Flame Wheel|Mach Punch|Taunt|Coba Berry|Adamant|0|255|0|0|0|255|126|127|59|76|59|119
+716|Monferno|3|Fire/Fighting|Rock Slide|Torment|Brick Break|Blaze Kick|Scope Lens|Adamant|0|255|0|0|0|255|128|129|61|78|61|121
+717|Infernape|4|Fire/Fighting|Fire Punch|Fake Out|U-Turn|Close Combat|Coba Berry|Jolly|0|255|0|0|0|255|142|146|82|103|82|165
+718|Infernape|5|Fire/Fighting|Thunder Punch|Blaze Kick|Shadow Claw|Gunk Shot|Muscle Band|Adamant|0|255|0|0|0|255|144|162|84|105|84|152
+719|Infernape|6|Fire/Fighting|Flamethrower|Solarbeam|Sunny Day|Focus Blast|BrightPowder|Modest|0|0|0|255|0|255|144|105|84|162|84|152
+720|Infernape|7|Fire/Fighting|Thunder Punch|Earthquake|Close Combat|Flare Blitz|King's Rock|Jolly|0|255|0|0|0|255|148|152|88|108|88|171
+721|Piplup|1|Water|Growl|Supersonic|Bubble Beam|Aerial Ace|Rindo Berry|Bashful|0|255|0|255|0|0|113|87|58|97|61|45
+722|Prinplup|2|Water|Bubble Beam|Peck|Double Team|Metal Claw|Wacan Berry|Quiet|0|0|0|255|255|0|126|73|75|130|114|51
+723|Prinplup|3|Water|Surf|Drill Peck|Metal Claw|Rain Dance|Focus Band|Bashful|0|255|0|255|0|0|128|106|77|121|85|59
+724|Empoleon|4|Water/Steel|Waterfall|Metal Claw|Brick Break|Knock Off|Razor Claw|Adamant|0|255|0|0|255|0|150|140|99|109|143|71
+725|Empoleon|5|Water/Steel|Drill Peck|Rock Slide|Shadow Claw|Aqua Jet|Razor Claw|Adamant|0|255|0|0|255|0|152|143|101|111|145|73
+726|Empoleon|6|Water/Steel|Surf|Blizzard|Earthquake|Signal Beam|Quick Claw|Brave|0|255|0|255|0|0|152|143|101|155|114|65
+727|Empoleon|7|Water/Steel|Drill Peck|Earthquake|Hydro Cannon|Flash Cannon|Quick Claw|Brave|0|255|0|255|0|0|156|147|105|159|118|69
+728|Starly|1|Normal/Flying|Wing Attack|Growl|Quick Attack|Endeavor|Sharp Beak|Adamant|0|255|0|0|0|255|100|100|35|31|35|96
+729|Staravia|1|Normal/Flying|Wing Attack|Whirlwind|Quick Attack|Endeavor|Sharp Beak|Adamant|0|255|0|0|0|255|115|122|55|40|45|116
+730|Staraptor|4|Normal/Flying|Double Team|Return|Aerial Ace|Roost|King's Rock|Jolly|0|255|0|0|0|255|151|162|81|54|61|156
+731|Staraptor|5|Normal/Flying|Quick Attack|Endure|Endeavor|Aerial Ace|King's Rock|Jolly|0|255|0|0|0|255|153|164|83|56|63|158
+732|Staraptor|6|Normal/Flying|Steel Wing|Return|Pursuit|Brave Bird|Muscle Band|Adamant|0|255|0|0|0|255|153|180|83|56|63|144
+733|Staraptor|7|Normal/Flying|U-Turn|Close Combat|Brave Bird|Giga Impact|Choice Band|Adamant|0|255|0|0|0|255|157|184|87|60|67|148
+734|Bidoof|1|Normal|Headbutt|Growl|Yawn|Pluck|Silk Scarf|Adamant|255|255|0|0|0|0|150|89|45|36|45|36
+735|Bibarel|2|Normal/Water|Headbutt|Growl|Quick Attack|Water Pulse|Chople Berry|Quirky|0|255|0|255|0|0|141|123|67|93|67|78
+736|Bibarel|3|Normal/Water|Hyper Fang|Super Fang|Attract|Pluck|Shell Bell|Adamant|255|255|0|0|0|0|174|137|69|57|69|80
+737|Kricketot|1|Bug|Growl|Bide|Mud-Slap|Bug Bite|Liechi Berry|Relaxed|170|0|170|0|170|0|118|30|73|30|67|27
+738|Kricketune|1|Bug|Focus Energy|Fury Cutter|Rock Smash|Knock Off|Metronome|Adamant|255|255|0|0|0|0|168|133|56|54|56|70
+739|Shinx|1|Electric|Leer|Bite|Howl|Thunder Fang|King's Rock|Adamant|255|255|0|0|0|0|136|111|39|40|39|50
+740|Luxio|2|Electric|Bite|Flash|Swagger|Thunder Fang|Magnet|Adamant|255|255|0|0|0|0|153|135|56|60|56|67
+741|Luxio|3|Electric|Thunderbolt|Thunder Wave|Swift|Signal Beam|Petaya Berry|Modest|255|0|0|255|0|0|155|84|58|110|58|69
+742|Luxray|4|Electric|Crunch|Charge|Howl|Thunder Fang|Razor Claw|Adamant|255|255|0|0|0|0|177|178|90|95|90|81
+743|Luxray|5|Electric|Thunderbolt|Thunder Wave|Signal Beam|Magnet Rise|Wise Glasses|Modest|255|0|0|255|0|0|179|119|92|152|92|83
+744|Luxray|6|Electric|Thunder Wave|Superpower|Thunder Fang|Ice Fang|White Herb|Adamant|255|255|0|0|0|0|179|180|92|97|92|83
+745|Luxray|7|Electric|Thunder Wave|Crunch|Thunder Fang|Ice Fang|Muscle Band|Adamant|255|255|0|0|0|0|183|184|96|100|96|87
+746|Budew|1|Grass/Poison|Mega Drain|Growth|Toxic|Worry Seed|Big Root|Calm|0|0|0|255|255|0|100|31|40|86|116|60
+747|Roserade|4|Grass/Poison|Stun Spore|Sludge Bomb|Mud-Slap|Magical Leaf|Coba Berry|Calm|0|0|0|255|255|0|126|72|66|167|161|101
+748|Roserade|5|Grass/Poison|Leech Seed|Giga Drain|Synthesis|Ingrain|Big Root|Calm|0|0|0|255|255|0|128|74|68|169|163|103
+749|Roserade|6|Grass/Poison|Hyper Beam|Sludge Bomb|Grass Whistle|Leaf Storm|White Herb|Modest|0|0|0|255|0|255|128|74|68|185|118|134
+750|Roserade|7|Grass/Poison|Sludge Bomb|Shadow Ball|Weather Ball|Leaf Storm|White Herb|Modest|0|0|0|255|0|255|132|78|72|190|122|138
+751|Cranidos|1|Rock|Leer|Scary Face|Pursuit|Rock Tomb|Rock Incense|Careful|0|0|255|0|255|0|127|130|76|31|72|63
+752|Rampardos|4|Rock|Screech|Rock Slide|Crunch|Facade|Toxic Orb|Adamant|255|255|0|0|0|0|194|227|71|68|61|69
+753|Rampardos|5|Rock|Payback|Fling|Avalanche|Stone Edge|Iron Ball|Brave|255|255|0|0|0|0|196|229|73|78|63|63
+754|Rampardos|6|Rock|Fire Punch|Thunder Punch|Zen Headbutt|Head Smash|Life Orb|Adamant|255|255|0|0|0|0|196|229|73|70|63|71
+755|Rampardos|7|Rock|Earthquake|Superpower|Giga Impact|Head Smash|Choice Scarf|Jolly|0|255|0|0|0|255|169|213|77|73|67|116
+756|Shieldon|1|Rock/Steel|Swagger|Rock Tomb|Iron Defense|Iron Head|Focus Band|Sassy|0|255|255|0|0|0|90|78|154|47|102|31
+757|Bastiodon|4|Rock/Steel|Swagger|Taunt|Iron Head|Stone Edge|Focus Band|Impish|0|0|255|0|255|0|126|63|231|52|180|41
+758|Bastiodon|5|Rock/Steel|Flamethrower|Ice Beam|Thunderbolt|Ancient Power|Persim Berry|Modest|255|0|0|255|0|0|159|58|181|100|151|43
+759|Bastiodon|6|Rock/Steel|Fissure|Double Team|Iron Defense|Iron Head|Leftovers|Careful|255|0|0|0|255|0|159|65|181|54|200|43
+760|Bastiodon|7|Rock/Steel|Curse|Metal Burst|Avalanche|Stone Edge|Focus Sash|Adamant|255|255|0|0|0|0|163|110|185|57|155|47
+761|Burmy|1|Bug|Tackle|Snore|Protect|Bug Bite|Sitrus Berry|Adamant|255|255|0|0|0|0|131|71|50|30|50|41
+762|Wormadam|2|Bug/Grass|Razor Leaf|Protect|Captivate|Bug Bite|Coba Berry|Adamant|0|255|0|0|255|0|122|106|92|77|143|43
+763|Wormadam|3|Bug/Grass|Psychic|Giga Drain|Attract|Signal Beam|Coba Berry|Modest|0|0|255|255|0|0|124|61|125|130|114|45
+764|Mothim|2|Bug/Flying|Poison Powder|Air Cutter|Silver Wind|Captivate|Petaya Berry|Modest|255|0|0|255|0|0|163|90|57|145|57|73
+765|Mothim|3|Bug/Flying|Poison Powder|Psychic|Air Slash|Bug Buzz|Coba Berry|Modest|255|0|0|255|0|0|165|92|59|147|59|75
+766|Combee|1|Bug/Flying|Gust|Sweet Scent|Bug Bite|Ominous Wind|SilverPowder|Serious|0|170|0|170|0|170|90|56|47|56|47|96
+767|Vespiquen|4|Bug/Flying|Swagger|Air Cutter|Silver Wind|Ominous Wind|Scope Lens|Modest|0|0|255|0|255|0|136|81|144|100|144|51
+768|Vespiquen|5|Bug/Flying|Toxic|Destiny Bond|X-Scissor|Heal Order|Persim Berry|Careful|170|0|170|0|170|0|159|93|136|83|149|53
+769|Vespiquen|6|Bug/Flying|Pursuit|Aerial Ace|U-Turn|X-Scissor|Muscle Band|Adamant|255|255|0|0|0|0|169|136|115|83|115|53
+770|Vespiquen|7|Bug/Flying|Confuse Ray|Attack Order|Defend Order|Heal Order|Shell Bell|Adamant|255|255|0|0|0|0|173|140|119|87|119|57
+771|Pachirisu|1|Electric|Bite|Quick Attack|Sweet Kiss|Spark|Magnet|Jolly|0|255|0|0|0|255|120|81|75|45|95|144
+772|Buizel|1|Water|Growl|Quick Attack|Pursuit|Aqua Jet|Wave Incense|Jolly|0|255|0|0|0|255|115|101|40|58|35|133
+773|Floatzel|4|Water|Ice Punch|Quick Attack|Waterfall|Rain Dance|Sitrus Berry|Jolly|0|255|0|0|0|255|151|147|66|86|61|172
+774|Floatzel|5|Water|Double Team|Waterfall|Attract|Focus Punch|Chesto Berry|Jolly|0|255|0|0|0|255|153|149|68|88|63|174
+775|Floatzel|6|Water|Surf|Ice Beam|Rain Dance|Focus Blast|Wave Incense|Modest|0|0|0|255|0|255|153|106|68|141|63|159
+776|Floatzel|7|Water|Crunch|Brick Break|Aqua Tail|Ice Fang|Razor Fang|Adamant|0|255|0|0|0|255|157|168|72|91|67|163
+777|Cherubi|1|Grass|Leech Seed|Toxic|Helping Hand|Magical Leaf|Rose Incense|Modest|0|0|0|255|255|0|105|36|50|107|89|40
+778|Cherrim|2|Grass|Leech Seed|Synthesis|Grass Whistle|Magical Leaf|Persim Berry|Bold|0|0|0|0|255|255|132|60|84|94|116|123
+779|Cherrim|3|Grass|Leech Seed|Solarbeam|Synthesis|Sunny Day|Power Herb|Modest|255|0|0|255|0|0|165|62|79|139|87|94
+780|Shellos|1|Water|Harden|Mud-Slap|Icy Wind|Water Pulse|Lax Incense|Bold|255|0|0|255|0|0|167|47|58|93|67|39
+781|Gastrodon|4|Water/Ground|Earthquake|Recover|Waterfall|Mirror Coat|Focus Sash|Careful|255|0|0|0|255|0|208|94|79|92|136|50
+782|Gastrodon|5|Water/Ground|Recover|Yawn|Muddy Water|Mud Bomb|Zoom Lens|Sassy|0|0|0|255|255|0|179|96|81|136|138|46
+783|Gastrodon|6|Water/Ground|Earthquake|Fissure|Waterfall|Stone Edge|Shell Bell|Adamant|255|255|0|0|0|0|210|139|81|94|95|52
+784|Gastrodon|7|Water/Ground|Surf|Ice Beam|Sludge Bomb|Earth Power|Wise Glasses|Modest|255|0|0|255|0|0|214|90|85|154|99|56
+785|Ambipom|4|Normal|Brick Break|Knock Off|Shadow Claw|Double Hit|Muscle Band|Jolly|0|255|0|0|0|255|141|142|77|63|77|172
+786|Ambipom|5|Normal|Thunder Wave|Protect|Fake Out|Last Resort|Metronome|Jolly|0|255|0|0|0|255|143|144|79|65|79|174
+787|Ambipom|6|Normal|Aerial Ace|Seed Bomb|Gunk Shot|Double Hit|Life Orb|Adamant|0|255|0|0|0|255|143|158|79|65|79|159
+788|Ambipom|7|Normal|Fire Punch|Ice Punch|Thunder Punch|Double Hit|Life Orb|Adamant|0|255|0|0|0|255|147|162|83|69|83|163
+789|Drifloon|1|Ghost/Flying|Icy Wind|Will-O-Wisp|Air Cutter|Ominous Wind|Petaya Berry|Modest|255|0|0|255|0|0|181|49|39|105|49|75
+790|Drifblim|4|Ghost/Flying|Endure|Baton Pass|Air Cutter|Ominous Wind|Salac Berry|Modest|255|0|0|255|0|0|247|81|55|145|65|91
+791|Drifblim|5|Ghost/Flying|Will-O-Wisp|Facade|Trick|Payback|Black Sludge|Adamant|255|255|0|0|0|0|249|136|57|92|67|93
+792|Drifblim|6|Ghost/Flying|Thunderbolt|Psychic|Destiny Bond|Icy Wind|Wise Glasses|Modest|255|0|0|255|0|0|249|83|57|147|67|93
+793|Drifblim|7|Ghost/Flying|Explosion|Shadow Ball|Air Cutter|Silver Wind|Lax Incense|Quirky|255|255|0|0|0|0|253|128|61|107|71|97
+794|Buneary|1|Normal|Quick Attack|Dizzy Punch|Foresight|Drain Punch|Black Belt|Adamant|0|255|0|0|0|255|115|112|49|44|61|121
+795|Lopunny|4|Normal|Charm|Return|Mirror Coat|Drain Punch|Focus Band|Jolly|0|255|0|0|0|255|131|118|95|58|107|161
+796|Lopunny|5|Normal|Thunder Wave|Sweet Kiss|Attract|Focus Punch|BrightPowder|Jolly|255|0|0|0|0|255|164|89|97|60|109|163
+797|Lopunny|6|Normal|Ice Beam|Shadow Ball|Focus Blast|Charge Beam|Wise Glasses|Modest|0|0|0|255|0|255|133|80|97|107|109|149
+798|Lopunny|7|Normal|Fire Punch|Ice Punch|Thunder Punch|Dizzy Punch|Muscle Band|Jolly|0|255|0|0|0|255|137|124|101|63|113|168
+799|Mismagius|4|Ghost|Shadow Ball|Memento|Magical Leaf|Power Gem|Kasib Berry|Modest|0|0|0|255|0|255|126|63|71|161|116|147
+800|Mismagius|5|Ghost|Confuse Ray|Perish Song|Mean Look|Shadow Ball|Lum Berry|Modest|0|0|0|255|255|0|128|65|73|163|149|118
+801|Mismagius|6|Ghost|Destiny Bond|Icy Wind|Shadow Ball|Energy Ball|Wise Glasses|Timid|0|0|0|255|0|255|128|65|73|149|118|163
+802|Mismagius|7|Ghost|Thunderbolt|Psychic|Destiny Bond|Shadow Ball|Focus Sash|Timid|0|0|0|255|0|255|132|69|77|153|122|168
+803|Honchkrow|4|Dark/Flying|Torment|Taunt|Aerial Ace|Night Slash|Wacan Berry|Adamant|255|255|0|0|0|0|197|183|63|104|63|82
+804|Honchkrow|5|Dark/Flying|Thunder Wave|Confuse Ray|Superpower|Pluck|White Herb|Adamant|255|255|0|0|0|0|199|185|65|106|65|84
+805|Honchkrow|6|Dark/Flying|Psychic|Shadow Ball|Air Cutter|Dark Pulse|Life Orb|Modest|255|0|0|255|0|0|199|124|65|163|65|84
+806|Honchkrow|7|Dark/Flying|Drill Peck|Steel Wing|Sucker Punch|Night Slash|Scope Lens|Adamant|255|255|0|0|0|0|203|190|69|109|69|88
+807|Glameow|1|Normal|Fury Swipes|Faint Attack|Attract|Fake Out|Razor Claw|Jolly|0|255|0|0|0|255|109|91|47|42|42|133
+808|Purugly|2|Normal|Growl|Slash|Faint Attack|Attract|Silk Scarf|Adamant|0|255|0|0|0|255|133|132|71|63|66|150
+809|Purugly|3|Normal|Body Slam|Attract|Fake Out|Shadow Claw|Liechi Berry|Adamant|0|255|0|0|0|255|135|134|73|65|68|152
+810|Chingling|1|Psychic|Growl|Disable|Confusion|Swift|TwistedSpoon|Modest|0|0|0|255|255|0|105|31|55|111|86|50
+811|Stunky|1|Poison/Dark|Toxic|Smokescreen|Slash|Pursuit|BlackGlasses|Adamant|0|255|0|0|0|255|123|108|52|41|46|110
+812|Skuntank|4|Poison/Dark|Screech|Slash|Sucker Punch|Poison Jab|Razor Claw|Adamant|255|255|0|0|0|0|200|148|78|73|72|95
+813|Skuntank|5|Poison/Dark|Toxic|Double Team|Swagger|Crunch|Chesto Berry|Jolly|255|0|0|0|0|255|202|106|80|75|74|140
+814|Skuntank|6|Poison/Dark|Flamethrower|Sludge Bomb|Shadow Ball|Dark Pulse|Shuca Berry|Timid|0|0|0|255|0|255|171|95|80|115|74|140
+815|Skuntank|7|Poison/Dark|Explosion|Crunch|Poison Jab|Night Slash|Muscle Band|Jolly|0|255|0|0|0|255|175|141|84|79|78|145
+816|Bronzor|1|Steel/Psychic|Confusion|Ancient Power|Imprison|Gyro Ball|Odd Incense|Brave|0|255|0|255|0|0|117|66|91|60|91|25
+817|Bronzong|4|Steel/Psychic|Rock Slide|Extrasensory|Trick Room|Iron Head|King's Rock|Impish|0|0|255|0|255|0|133|100|173|81|158|44
+818|Bronzong|5|Steel/Psychic|Hypnosis|Dream Eater|Signal Beam|Trick Room|Lum Berry|Calm|0|0|255|0|255|0|135|91|160|92|176|46
+819|Bronzong|6|Steel/Psychic|Psychic|Shadow Ball|Signal Beam|Charge Beam|Leftovers|Modest|255|0|0|255|0|0|166|91|129|135|129|46
+820|Bronzong|7|Steel/Psychic|Earthquake|Explosion|Zen Headbutt|Iron Head|Quick Claw|Adamant|255|255|0|0|0|0|170|150|133|86|133|50
+821|Bonsly|1|Rock|Low Kick|Rock Slide|Sandstorm|Copycat|Rock Incense|Adamant|0|255|255|0|0|0|110|127|131|13|50|15
+822|Mime_Jr.|1|Psychic|Confusion|Barrier|Light Screen|Copycat|Lax Incense|Bold|0|0|0|255|255|0|80|27|55|106|126|65
+823|Happiny|1|Normal|Sweet Kiss|Charm|Present|Copycat|Sitrus Berry|Adamant|255|0|255|0|0|0|191|11|41|18|70|35
+824|Chatot|1|Normal/Flying|Sing|Mirror Move|Swift|Chatter|Persim Berry|Calm|0|0|0|0|255|255|136|63|50|97|85|127
+825|Gible|1|Dragon/Ground|Dragon Rage|Sandstorm|Metal Claw|Sand Tomb|Soft Sand|Adamant|255|255|0|0|0|0|149|116|50|40|50|47
+826|Gabite|2|Dragon/Ground|Sand Attack|Dragon Rage|Slash|Sand Tomb|Yache Berry|Adamant|0|255|0|0|0|255|130|140|72|51|62|120
+827|Gabite|3|Dragon/Ground|Earthquake|Slash|Sandstorm|Dragon Claw|Muscle Band|Adamant|0|255|0|0|0|255|132|143|74|53|64|122
+828|Garchomp|4|Dragon/Ground|Earthquake|Double Team|Sandstorm|Dragon Claw|BrightPowder|Jolly|0|255|0|0|0|255|174|172|106|81|96|158
+829|Garchomp|5|Dragon/Ground|Flamethrower|Surf|Earth Power|Draco Meteor|White Herb|Modest|0|0|0|255|0|255|176|128|108|136|98|146
+830|Garchomp|6|Dragon/Ground|Aerial Ace|Aqua Tail|Dragon Rush|Stone Edge|Focus Sash|Adamant|0|255|0|0|0|255|176|191|108|83|98|146
+831|Garchomp|7|Dragon/Ground|Earthquake|Outrage|Crunch|Fire Fang|Persim Berry|Adamant|0|255|0|0|0|255|180|195|112|87|102|150
+832|Munchlax|1|Normal|Metronome|Stockpile|Swallow|Recycle|Sitrus Berry|Relaxed|0|0|255|0|255|0|195|90|83|45|121|9
+833|Riolu|1|Fighting|Counter|Foresight|Brick Break|Bullet Punch|Expert Belt|Adamant|0|255|0|0|0|255|100|116|45|36|45|96
+834|Lucario|4|Fighting/Steel|Roar|Water Pulse|Aura Sphere|Flash Cannon|BrightPowder|Modest|0|0|0|255|0|255|136|108|81|172|81|132
+835|Lucario|5|Fighting/Steel|Ice Punch|Thunder Punch|Cross Chop|Stone Edge|Scope Lens|Adamant|0|255|0|0|0|255|138|169|83|115|83|134
+836|Lucario|6|Fighting/Steel|Earthquake|Blaze Kick|Close Combat|Shadow Claw|Muscle Band|Adamant|0|255|0|0|0|255|138|169|83|115|83|134
+837|Lucario|7|Fighting/Steel|Psychic|Shadow Ball|Aura Sphere|Dragon Pulse|Expert Belt|Modest|0|0|0|255|0|255|142|114|87|179|87|138
+838|Hippopotas|1|Ground|Dig|Yawn|Rock Tomb|Sand Tomb|Chesto Berry|Adamant|255|255|0|0|0|0|159|118|83|38|47|37
+839|Hippowdon|4|Ground|Earthquake|Curse|Crunch|Slack Off|Persim Berry|Impish|0|255|255|0|0|0|174|154|176|71|83|58
+840|Hippowdon|5|Ground|Earthquake|Swagger|Yawn|Sand Tomb|Sitrus Berry|Impish|0|255|255|0|0|0|176|156|178|72|85|60
+841|Hippowdon|6|Ground|Fissure|Superpower|Ice Fang|Fire Fang|White Herb|Adamant|255|255|0|0|0|0|207|171|131|72|85|60
+842|Hippowdon|7|Ground|Earthquake|Crunch|Thunder Fang|Stone Edge|Quick Claw|Adamant|255|255|0|0|0|0|211|176|135|76|89|64
+843|Skorupi|1|Poison/Bug|Bite|Poison Fang|Toxic Spikes|Bug Bite|Poison Barb|Impish|0|255|255|0|0|0|100|86|138|31|60|70
+844|Drapion|4|Poison/Dark|Crunch|Acupressure|Poison Jab|Aqua Tail|Lum Berry|Adamant|0|255|255|0|0|0|136|145|152|63|86|106
+845|Drapion|5|Poison/Dark|Knock Off|Payback|Fling|Poison Jab|Iron Ball|Adamant|0|255|255|0|0|0|138|147|154|65|88|108
+846|Drapion|6|Poison/Dark|Thunder Fang|Ice Fang|Fire Fang|Cross Poison|Scope Lens|Jolly|0|255|0|0|0|255|138|134|123|65|88|152
+847|Drapion|7|Poison/Dark|Earthquake|Aerial Ace|Night Slash|Cross Poison|Razor Claw|Adamant|0|255|0|0|0|255|142|151|127|69|92|143
+848|Croagunk|1|Poison/Fighting|Swagger|Taunt|Wake-Up Slap|Poison Jab|Black Sludge|Adamant|255|255|0|0|0|0|139|106|45|59|45|55
+849|Toxicroak|4|Poison/Fighting|Brick Break|Knock Off|Poison Jab|X-Scissor|Black Sludge|Adamant|0|255|0|0|0|255|149|162|76|87|76|127
+850|Toxicroak|5|Poison/Fighting|Ice Punch|Thunder Punch|Dynamic Punch|Poison Jab|Wide Lens|Adamant|0|255|0|0|0|255|151|165|78|89|78|129
+851|Toxicroak|6|Poison/Fighting|Sludge Bomb|Shadow Ball|Dark Pulse|Focus Blast|Wise Glasses|Modest|0|0|0|255|0|255|151|107|78|143|78|129
+852|Toxicroak|7|Poison/Fighting|Earthquake|Cross Chop|Gunk Shot|Stone Edge|Razor Claw|Adamant|0|255|0|0|0|255|155|169|82|92|82|133
+853|Carnivine|2|Grass|Bite|Razor Leaf|Sweet Scent|Ingrain|Miracle Seed|Adamant|255|255|0|0|0|0|167|151|79|87|79|53
+854|Carnivine|3|Grass|Crunch|Ingrain|Wring Out|Seed Bomb|Occa Berry|Adamant|255|255|0|0|0|0|169|154|81|89|81|55
+855|Finneon|1|Water|Attract|Silver Wind|Water Pulse|Aqua Ring|Wave Incense|Modest|0|0|0|255|255|0|109|48|61|93|97|71
+856|Lumineon|2|Water|Water Gun|Attract|U-Turn|Captivate|Wacan Berry|Bashful|0|255|0|255|0|0|131|107|83|107|93|98
+857|Lumineon|3|Water|Surf|Attract|Silver Wind|Aqua Ring|Shell Bell|Modest|0|0|0|255|0|255|133|70|85|119|95|131
+858|Mantyke|1|Water/Flying|Bubble Beam|Agility|Icy Wind|Aerial Ace|Mystic Water|Docile|0|0|0|255|255|0|105|25|55|96|156|55
+859|Snover|1|Grass/Ice|Ice Punch|Razor Leaf|Ingrain|Grass Whistle|NeverMeltIce|Adamant|255|255|0|0|0|0|151|107|55|60|65|45
+860|Abomasnow|4|Grass/Ice|Ice Beam|Giga Drain|Grass Whistle|Water Pulse|Lum Berry|Calm|255|0|0|255|0|0|187|92|86|134|105|71
+861|Abomasnow|5|Grass/Ice|Leech Seed|Giga Drain|Ingrain|Sheer Cold|Big Root|Bold|170|0|170|0|170|0|179|94|119|105|119|73
+862|Abomasnow|6|Grass/Ice|Blizzard|Shadow Ball|Focus Blast|Energy Ball|Occa Berry|Quiet|255|0|0|255|0|0|189|105|88|149|98|65
+863|Abomasnow|7|Grass/Ice|Earthquake|Rock Slide|Avalanche|Wood Hammer|Shell Bell|Brave|255|255|0|0|0|0|193|154|92|109|102|69
+864|Weavile|4|Dark/Ice|Ice Punch|Screech|Fake Out|Night Slash|Chople Berry|Adamant|0|255|0|0|0|255|136|178|76|50|96|167
+865|Weavile|5|Dark/Ice|Double Team|Attract|Hail|Night Slash|BrightPowder|Jolly|0|255|0|0|0|255|138|164|78|52|98|185
+866|Weavile|6|Dark/Ice|Counter|Metal Claw|Night Slash|X-Scissor|Focus Sash|Adamant|0|255|0|0|0|255|138|180|78|52|98|169
+867|Weavile|7|Dark/Ice|Ice Punch|Brick Break|Aerial Ace|Night Slash|Razor Claw|Jolly|0|255|0|0|0|255|142|168|82|55|102|190
+868|Magnezone|4|Electric/Steel|Thunderbolt|Light Screen|Reflect|Mirror Shot|Light Clay|Bold|0|0|255|255|0|0|136|72|172|172|101|71
+869|Magnezone|5|Electric/Steel|Explosion|Swagger|Psych Up|Iron Head|Lum Berry|Impish|0|255|255|0|0|0|138|114|174|128|103|73
+870|Magnezone|6|Electric/Steel|Thunder Wave|Magnet Rise|Flash Cannon|Charge Beam|Chesto Berry|Modest|0|0|255|255|0|0|138|74|159|191|103|73
+871|Magnezone|7|Electric/Steel|Thunderbolt|Tri Attack|Signal Beam|Flash Cannon|BrightPowder|Modest|0|0|255|255|0|0|142|78|163|195|107|77
+872|Lickilicky|4|Normal|Earthquake|Rest|Belly Drum|Return|Chesto Berry|Careful|255|255|0|0|0|0|207|127|106|81|116|61
+873|Lickilicky|5|Normal|Surf|Ice Beam|Thunderbolt|Shadow Ball|Expert Belt|Modest|255|0|0|255|0|0|209|88|108|136|108|63
+874|Lickilicky|6|Normal|Rest|Curse|Return|Gyro Ball|Lum Berry|Brave|255|255|0|0|0|0|209|141|108|93|108|56
+875|Lickilicky|7|Normal|Body Slam|Earthquake|Explosion|Power Whip|Lax Incense|Adamant|255|255|0|0|0|0|213|146|112|87|112|67
+876|Rhyperior|4|Ground/Rock|Roar|Earthquake|Crunch|Rock Wrecker|Focus Band|Adamant|0|255|255|0|0|0|181|200|172|59|66|51
+877|Rhyperior|5|Ground/Rock|Fire Punch|Ice Punch|Thunder Punch|Aqua Tail|Expert Belt|Adamant|0|255|255|0|0|0|183|202|174|61|68|53
+878|Rhyperior|6|Ground/Rock|Horn Drill|Counter|Payback|Avalanche|Focus Sash|Impish|255|0|255|0|0|0|214|153|191|61|68|53
+879|Rhyperior|7|Ground/Rock|Earthquake|Megahorn|Hammer Arm|Rock Wrecker|Choice Band|Adamant|255|255|0|0|0|0|218|206|147|64|72|57
+880|Tangrowth|4|Grass|Sleep Powder|Sludge Bomb|Focus Blast|Energy Ball|Coba Berry|Modest|0|0|255|255|0|0|166|99|167|167|61|61
+881|Tangrowth|5|Grass|Leech Seed|Toxic|Double Team|Giga Drain|Big Root|Bold|170|0|170|170|0|0|189|101|174|144|63|63
+882|Tangrowth|6|Grass|Solarbeam|Synthesis|Sunny Day|Wring Out|Heat Rock|Modest|0|0|255|255|0|0|168|101|169|169|63|63
+883|Tangrowth|7|Grass|Earthquake|Brick Break|Aerial Ace|Power Whip|Lax Incense|Adamant|0|255|255|0|0|0|172|162|173|114|67|67
+884|Electivire|4|Electric|Thunder Punch|Thunder Wave|Screech|Cross Chop|Scope Lens|Jolly|0|255|0|0|0|255|141|165|78|95|96|150
+885|Electivire|5|Electric|Thunder|Rock Slide|Dynamic Punch|Iron Tail|Wide Lens|Hardy|0|255|0|255|0|0|143|167|80|139|98|108
+886|Electivire|6|Electric|Thunderbolt|Psychic|Signal Beam|Focus Blast|Wise Glasses|Modest|0|0|0|255|0|255|143|122|80|152|98|139
+887|Electivire|7|Electric|Fire Punch|Ice Punch|Thunder Punch|Earthquake|Shuca Berry|Adamant|0|255|0|0|0|255|147|188|84|100|102|143
+888|Magmortar|4|Fire|Fire Blast|Sunny Day|Will-O-Wisp|Focus Blast|Heat Rock|Modest|0|0|0|255|0|255|141|95|78|183|106|125
+889|Magmortar|5|Fire|Fire Punch|Smokescreen|Confuse Ray|Focus Punch|Shuca Berry|Adamant|0|255|0|0|0|255|143|152|80|124|108|127
+890|Magmortar|6|Fire|Thunder Punch|Earthquake|Brick Break|Flare Blitz|Passho Berry|Adamant|0|255|0|0|0|255|143|152|80|124|108|127
+891|Magmortar|7|Fire|Psychic|Confuse Ray|Overheat|Focus Blast|White Herb|Modest|0|0|0|255|0|255|147|100|84|190|112|131
+892|Togekiss|4|Normal/Flying|Sky Attack|Extreme Speed|Roost|Drain Punch|Power Herb|Adamant|0|255|0|0|255|0|151|101|106|117|157|91
+893|Togekiss|5|Normal/Flying|Ancient Power|Silver Wind|Air Slash|Ominous Wind|Scope Lens|Modest|255|0|0|255|0|0|184|56|108|180|128|93
+894|Togekiss|6|Normal/Flying|Heat Wave|Signal Beam|Magical Leaf|Air Slash|Wise Glasses|Modest|0|0|0|255|0|255|153|56|108|180|128|124
+895|Togekiss|7|Normal/Flying|Hyper Beam|Psychic|Aura Sphere|Air Slash|Expert Belt|Modest|0|0|0|255|0|255|157|60|112|184|132|128
+896|Yanmega|4|Bug/Flying|Double Team|Detect|Air Cutter|Signal Beam|Coba Berry|Timid|0|0|0|255|0|255|152|78|97|158|67|150
+897|Yanmega|5|Bug/Flying|Steel Wing|Aerial Ace|U-Turn|Night Slash|Muscle Band|Adamant|0|255|0|0|0|255|154|132|99|116|69|139
+898|Yanmega|6|Bug/Flying|Giga Drain|Ancient Power|Silver Wind|Ominous Wind|Lum Berry|Modest|0|0|0|255|0|255|154|80|99|176|69|139
+899|Yanmega|7|Bug/Flying|Psychic|Shadow Ball|Air Slash|Bug Buzz|Wise Glasses|Modest|0|0|0|255|0|255|158|83|103|180|73|143
+900|Leafeon|4|Grass|Double Team|Baton Pass|Aerial Ace|Leaf Blade|Scope Lens|Jolly|0|255|0|0|0|255|131|152|141|63|76|150
+901|Leafeon|5|Grass|Curse|Grass Whistle|Leaf Blade|Last Resort|BrightPowder|Jolly|0|255|0|0|0|255|133|154|143|65|78|152
+902|Leafeon|6|Grass|Synthesis|Sunny Day|Leaf Blade|X-Scissor|Heat Rock|Adamant|0|255|255|0|0|0|133|169|174|65|78|108
+903|Leafeon|7|Grass|Bite|Aerial Ace|Leaf Blade|X-Scissor|Quick Claw|Adamant|0|255|255|0|0|0|137|173|178|69|82|112
+904|Glaceon|4|Ice|Ice Beam|Double Team|Baton Pass|Water Pulse|Lax Incense|Calm|0|0|0|255|255|0|131|63|121|172|150|76
+905|Glaceon|5|Ice|Ice Beam|Double Team|Hail|Yawn|Leftovers|Calm|0|0|0|255|255|0|133|65|123|174|152|78
+906|Glaceon|6|Ice|Blizzard|Hyper Beam|Mirror Coat|Hail|Focus Sash|Modest|0|0|255|255|0|0|133|65|154|191|108|78
+907|Glaceon|7|Ice|Ice Beam|Shadow Ball|Signal Beam|Water Pulse|Wise Glasses|Modest|0|0|255|255|0|0|137|69|158|195|112|82
+908|Gliscor|4|Ground/Flying|Swords Dance|Earthquake|Baton Pass|Aerial Ace|Yache Berry|Adamant|0|255|255|0|0|0|141|150|167|50|86|106
+909|Gliscor|5|Ground/Flying|Earthquake|Thunder Fang|Ice Fang|Fire Fang|Razor Fang|Jolly|0|255|0|0|0|255|143|139|138|52|88|152
+910|Gliscor|6|Ground/Flying|Guillotine|Counter|Earthquake|U-Turn|Focus Sash|Jolly|255|0|0|0|0|255|174|108|138|52|88|152
+911|Gliscor|7|Ground/Flying|Earthquake|Aerial Ace|X-Scissor|Stone Edge|Expert Belt|Adamant|0|255|255|0|0|0|147|157|173|55|92|112
+912|Mamoswine|4|Ice/Ground|Peck|Earthquake|Hail|Ice Fang|Icy Rock|Adamant|255|255|0|0|0|0|207|189|91|72|71|91
+913|Mamoswine|5|Ice/Ground|Earthquake|Curse|Avalanche|Iron Head|Sitrus Berry|Adamant|255|255|0|0|0|0|209|191|93|74|73|93
+914|Mamoswine|6|Ice/Ground|Earthquake|Fissure|Hail|Superpower|Lax Incense|Adamant|255|255|0|0|0|0|209|191|93|74|73|93
+915|Mamoswine|7|Ice/Ground|Double-edge|Earthquake|Ice Fang|Stone Edge|Life Orb|Adamant|255|255|0|0|0|0|213|195|97|78|77|97
+916|Porygon-Z|4|Normal|Tri Attack|Conversion 2|Shadow Ball|Recycle|Sitrus Berry|Modest|255|0|0|255|0|0|182|81|81|194|86|101
+917|Porygon-Z|5|Normal|Thunder Wave|Recover|Tri Attack|Trick|Choice Scarf|Timid|0|0|0|255|0|255|153|83|83|179|88|147
+918|Porygon-Z|6|Normal|Ice Beam|Psychic|Signal Beam|Charge Beam|Wise Glasses|Modest|255|0|0|255|0|0|184|83|83|196|88|103
+919|Porygon-Z|7|Normal|Thunderbolt|Recover|Tri Attack|Shadow Ball|Expert Belt|Modest|0|0|0|255|0|255|157|87|87|201|92|138
+920|Gallade|4|Psychic/Fighting|Thunder Wave|Confuse Ray|Brick Break|Zen Headbutt|Kasib Berry|Careful|0|255|0|0|255|0|134|167|76|68|172|91
+921|Gallade|5|Psychic/Fighting|Fire Punch|Ice Punch|Thunder Punch|Drain Punch|BrightPowder|Jolly|0|255|0|0|0|255|136|169|78|70|128|136
+922|Gallade|6|Psychic/Fighting|Aerial Ace|X-Scissor|Psycho Cut|Stone Edge|Scope Lens|Adamant|0|255|0|0|255|0|136|185|78|70|159|93
+923|Gallade|7|Psychic/Fighting|Leaf Blade|Close Combat|Night Slash|Psycho Cut|Scope Lens|Adamant|0|255|0|0|255|0|140|190|82|73|163|97
+924|Probopass|4|Rock/Steel|Thunder Wave|Protect|Ancient Power|Magnet Bomb|Cheri Berry|Brave|0|255|0|255|0|0|126|106|156|117|161|45
+925|Probopass|5|Rock/Steel|Fire Punch|Ice Punch|Thunder Punch|Iron Head|Chople Berry|Adamant|0|255|0|0|255|0|128|108|158|79|194|53
+926|Probopass|6|Rock/Steel|Earthquake|Explosion|Iron Head|Stone Edge|Scope Lens|Adamant|0|255|255|0|0|0|128|108|189|79|163|53
+927|Probopass|7|Rock/Steel|Thunderbolt|Power Gem|Earth Power|Flash Cannon|Life Orb|Modest|0|0|0|255|255|0|132|64|162|135|198|57
+928|Dusknoir|4|Ghost|Will-O-Wisp|Shadow Punch|Fling|Trick Room|Iron Ball|Brave|0|255|255|0|0|0|111|156|177|76|146|50
+929|Dusknoir|5|Ghost|Confuse Ray|Curse|Attract|Pain Split|Leftovers|Careful|0|0|255|0|255|0|113|113|179|70|196|58
+930|Dusknoir|6|Ghost|Fire Punch|Ice Punch|Thunder Punch|Shadow Punch|Scope Lens|Adamant|0|255|0|0|255|0|113|158|148|70|179|58
+931|Dusknoir|7|Ghost|Earthquake|Rock Slide|Brick Break|Shadow Punch|Muscle Band|Adamant|0|0|255|0|255|0|117|128|183|73|183|62
+932|Froslass|4|Ice/Ghost|Ice Beam|Confuse Ray|Attract|Ominous Wind|Cheri Berry|Timid|0|0|0|255|0|255|136|81|81|122|81|167
+933|Froslass|5|Ice/Ghost|Ice Punch|Swagger|Psych Up|Sucker Punch|Focus Band|Adamant|0|255|0|0|0|255|138|136|83|83|83|154
+934|Froslass|6|Ice/Ghost|Ice Beam|Thunderbolt|Destiny Bond|Signal Beam|Expert Belt|Modest|0|0|0|255|0|255|138|83|83|136|83|154
+935|Froslass|7|Ice/Ghost|Blizzard|Psychic|Shadow Ball|Hail|Lax Incense|Modest|0|0|0|255|0|255|142|87|87|140|87|158
+936|Rotom|2|Electric/Ghost|Thunder Shock|Thunder Wave|Confuse Ray|Astonish|Cheri Berry|Modest|0|0|0|255|0|255|112|51|84|146|84|129
+937|Rotom|3|Electric/Ghost|Thunder Wave|Double Team|Discharge|Ominous Wind|Magnet|Modest|0|0|0|255|0|255|114|53|86|148|86|131
+938|Heatran|8|Fire/Steel|Scary Face|Ancient Power|Heat Wave|Flash Cannon|Shuca Berry|Modest|0|0|0|255|255|0|166|99|126|200|158|97
+939|Heatran|8|Fire/Steel|Earthquake|Crunch|Iron Head|Stone Edge|Quick Claw|Adamant|255|255|0|0|0|0|198|156|126|135|126|97
+940|Heatran|8|Fire/Steel|Flamethrower|Dark Pulse|Dragon Pulse|Earth Power|BrightPowder|Modest|255|0|0|255|0|0|198|99|126|200|126|97
+941|Heatran|8|Fire/Steel|Explosion|Earth Power|Flash Cannon|Magma Storm|Focus Sash|Quiet|0|255|0|255|0|0|166|142|126|200|126|87
+942|Regigigas|8|Normal|Thunder Wave|Confuse Ray|Return|Aerial Ace|Lax Incense|Impish|170|0|170|0|170|0|206|180|166|90|151|120
+943|Regigigas|8|Normal|Double Team|Substitute|Facade|Zen Headbutt|Leftovers|Careful|170|0|170|0|170|0|206|180|151|90|166|120
+944|Regigigas|8|Normal|Thunderbolt|Ancient Power|Focus Blast|Earth Power|Wise Glasses|Modest|255|0|0|255|0|0|217|162|130|145|130|120
+945|Regigigas|8|Normal|Earthquake|Drain Punch|Stone Edge|Crush Grip|BrightPowder|Adamant|255|255|0|0|0|0|217|233|130|90|130|120
+946|Cresselia|8|Psychic|Solarbeam|Psychic|Moonlight|Sunny Day|Heat Rock|Bold|0|0|255|0|255|0|195|81|189|95|182|105
+947|Cresselia|8|Psychic|Toxic|Psychic|Double Team|Moonlight|Lum Berry|Bold|170|0|170|0|170|0|216|81|177|95|171|105
+948|Cresselia|8|Psychic|Psychic|Shadow Ball|Energy Ball|Charge Beam|Wise Glasses|Modest|255|0|0|255|0|0|227|81|140|139|150|105
+949|Cresselia|8|Psychic|Ice Beam|Psychic|Moonlight|Signal Beam|Leftovers|Modest|170|0|170|0|170|0|216|81|161|104|171|105
