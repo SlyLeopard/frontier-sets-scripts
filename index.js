@@ -1,7 +1,7 @@
 import fs from "fs"
 import path from "path"
 import { select } from "@inquirer/prompts"
-import { WebBuilder } from './src/scrape.js'
+import { WebBuilder } from './src/pokeapi.js'
 import { TextBuilder } from './src/text.js'
 
 const dataFolder = "./data"
@@ -13,7 +13,7 @@ async function main() {
         {
             message: "Where should the data come from?",
             choices: [
-                { name: "Scrape from Web", value: "scrape" },
+                { name: "Get from PokeAPI", value: "api" },
                 { name: "Build from Text File", value: "text" },
             ],
         })
@@ -27,7 +27,7 @@ async function main() {
         })
     }
 
-    if (sourceType === "scrape") {
+    if (sourceType === "api") {
         await WebBuilder.buildPokemonFromAPI()
     } else {
         const filePath = path.join(dataFolder, file)
