@@ -115,7 +115,7 @@ export class WebBuilder {
                 name: speciesName,
                 dex: data.id,
                 stats: stats,
-                types: types,
+                type: types,
                 abilities: data.abilities.map(a => this.formalizeAbilities(String(a.ability.name))),
                 createdAt: new Date().toISOString(),
                 updatedAt: new Date().toISOString()
